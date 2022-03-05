@@ -2,6 +2,22 @@
 
   [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
 
+ >Projects
+
+ - [Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)
+ - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)
+ - [Car Rental Database System](https://github.com/Amey-Thakur/RESEARCHGATE#car-rental-database-system)
+ - [Digital Bookstore](https://github.com/Amey-Thakur/RESEARCHGATE#digital-bookstore)
+ - [White-Box Cartoonization Using An Extended GAN Framework](https://github.com/Amey-Thakur/RESEARCHGATE#white-box-cartoonization-using-an-extended-gan-framework)
+ - [Bangalore House Price Prediction](https://github.com/Amey-Thakur/RESEARCHGATE#bangalore-house-price-prediction)
+ - [Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#neural-networks)
+    - [Fundamentals of Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#fundamentals-of-neural-networks)
+    - [Generative Adversarial Networks](https://github.com/Amey-Thakur/RESEARCHGATE#generative-adversarial-networks)
+ - [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://github.com/Amey-Thakur/RESEARCHGATE#neuro-fuzzy-artificial-neural-networks--fuzzy-logic)
+ - [Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)
+ - [Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)
+ - [QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)
+
 ---
 
 ## Hangman Word Game
@@ -89,17 +105,19 @@
 
  - [X] Project Goal: Understanding the concepts of neural networks and how to put them into practice.
 
- ### Generative Adversarial Networks
-
-   - [Published Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723)
-
- - Authors: Amey Thakur & Mega Satish
 
  ### Fundamentals of Neural Networks
 
    - [Published Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362)
 
  - Authors: Amey Thakur & Archit Konde
+
+
+ ### Generative Adversarial Networks
+
+   - [Published Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723)
+
+ - Authors: Amey Thakur & Mega Satish
 
 ---
 
