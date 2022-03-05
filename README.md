@@ -4,25 +4,37 @@
 
  >**PROJECTS**
 
- - [Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)
- - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)
- - [Car Rental Database System](https://github.com/Amey-Thakur/RESEARCHGATE#car-rental-database-system)
- - [Digital Bookstore](https://github.com/Amey-Thakur/RESEARCHGATE#digital-bookstore)
- - [White-Box Cartoonization Using An Extended GAN Framework](https://github.com/Amey-Thakur/RESEARCHGATE#white-box-cartoonization-using-an-extended-gan-framework)
- - [Bangalore House Price Prediction](https://github.com/Amey-Thakur/RESEARCHGATE#bangalore-house-price-prediction)
- - [Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#neural-networks)
-    - [Fundamentals of Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#fundamentals-of-neural-networks)
-    - [Generative Adversarial Networks](https://github.com/Amey-Thakur/RESEARCHGATE#generative-adversarial-networks)
- - [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://github.com/Amey-Thakur/RESEARCHGATE#neuro-fuzzy-artificial-neural-networks--fuzzy-logic)
- - [Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)
- - [Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)
- - [QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)
+ - **[Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)**
+ - **[Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)**
+ - **[Car Rental Database System](https://github.com/Amey-Thakur/RESEARCHGATE#car-rental-database-system)**
+ - **[Digital Bookstore](https://github.com/Amey-Thakur/RESEARCHGATE#digital-bookstore)**
+ - **[White-Box Cartoonization Using An Extended GAN Framework](https://github.com/Amey-Thakur/RESEARCHGATE#white-box-cartoonization-using-an-extended-gan-framework)**
+ - **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/RESEARCHGATE#bangalore-house-price-prediction)**
+ - **[Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#neural-networks)**
+    - **[Fundamentals of Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#fundamentals-of-neural-networks)**
+    - **[Generative Adversarial Networks](https://github.com/Amey-Thakur/RESEARCHGATE#generative-adversarial-networks)**
+ - **[Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://github.com/Amey-Thakur/RESEARCHGATE#neuro-fuzzy-artificial-neural-networks--fuzzy-logic)**
+ - **[Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)**
+ - **[Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)**
+ - **[QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)**
+
+##
+
+ >**AUTHORS | [LAB](https://www.researchgate.net/lab/Amey-Thakur-Lab-3)**
+
+ - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur)**
+ - **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish)**
+ - **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**
+ - **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**
+ - **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**
+ - **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**
+ - **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**
 
 ---
 
 ## Hangman Word Game
 
- - [X] Project Goal: Hangman Word Game using Applet in Java.
+ - [X] **Project Goal: Hangman Word Game using Applet in Java.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FHANGMAN-WORD-GAME)
 
@@ -31,11 +43,11 @@
 
  - Authors: Amey Thakur, Mega Satish & Saakshi Deokar
 
----
+
 
 ## Chat Room using HTML, PHP, CSS, JS, AJAX
 
- - [X] Project Goal: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
+ - [X] **Project Goal: Web-Based Chat Application using PHP, MySQL, JS, AJAX.**
  
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FCHAT-ROOM)
      
@@ -46,11 +58,11 @@
 
  - Authors: Amey Thakur & Karan Dhiman
 
----
+
 
 ## Car Rental Database System
 
- - [X] Project Goal: Create a simple Car Rental Database Management System.
+ - [X] **Project Goal: Create a simple Car Rental Database Management System.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FCAR-RENTAL-SYSTEM)
 
@@ -58,11 +70,11 @@
 
  - Authors: Amey Thakur
 
----
+
 
 ## Digital Bookstore
 
- - [X] Project Goal: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
+ - [X] **Project Goal: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FDIGITAL-BOOKSTORE)
 
@@ -70,11 +82,11 @@
 
  - Authors: Amey Thakur & Mega Satish
 
----
+
 
 ## White-Box Cartoonization Using An Extended GAN Framework
 
- - [X] Project Goal: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.
+ - [X] **Project Goal: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FWHITE-BOX-CARTOONIZATION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Famey-thakur.github.io%2FWHITE-BOX-CARTOONIZATION)
      
@@ -86,11 +98,11 @@
 
  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
 
----
+
 
 ## Bangalore House Price Prediction
 
- - [X] Project Goal: Machine Learning Project to Predict House Prices in Bangalore.
+ - [X] **Project Goal: Machine Learning Project to Predict House Prices in Bangalore.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FBANGALORE-HOUSE-PRICE-PREDICTION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fbangalorehousepriceprediction.herokuapp.com)
 
@@ -99,11 +111,11 @@
 
  - Authors: Amey Thakur & Mega Satish
 
----
+
 
 ## Neural Networks
 
- - [X] Project Goal: Understanding the concepts of neural networks and how to put them into practice.
+ - [X] **Project Goal: Understanding the concepts of neural networks and how to put them into practice.**
 
 
  ### Fundamentals of Neural Networks
@@ -119,22 +131,22 @@
 
  - Authors: Amey Thakur & Mega Satish
 
----
+
 
 ## Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
 
- - [X] Project Goal: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.
+ - [X] **Project Goal: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
 
      *  [Published Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930)
      *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
 
  - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
 
----
+
 
 ## Optimizing Stock Trading Strategy With Reinforcement Learning
 
- - [X] Project Goal: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.
+ - [X] **Project Goal: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FOPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fstock-trading-with-rl.herokuapp.com)
 
@@ -142,11 +154,11 @@
 
  - Authors: Amey Thakur
 
----
+
 
 ## Text Summarizer
 
- - [X] Project Goal:  In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
+ - [X] **Project Goal:  In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FTEXT-SUMMARIZER) | [Web Application](https://www.researchgate.net/deref/http%3A%2F%2Ftextssummarizer.herokuapp.com)
 
@@ -155,25 +167,13 @@
 
  - Authors: Amey Thakur & Mega Satish
 
----
+
 
 ## QuadTree Visualizer
 
- - [X] Project Goal - An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.
+ - [X] **Project Goal - An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.**
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FQUADTREE-VISUALIZER)
    
  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
-
----
-
-
-
-
-
-
-
-
-
-
 
