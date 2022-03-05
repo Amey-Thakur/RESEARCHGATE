@@ -68,7 +68,7 @@
 
      *  [Published Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339)
 
- - Authors: Amey Thakur
+ - Author: Amey Thakur
 
 
 
@@ -152,7 +152,7 @@
 
      *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
 
- - Authors: Amey Thakur
+ - Author: Amey Thakur
 
 
 
