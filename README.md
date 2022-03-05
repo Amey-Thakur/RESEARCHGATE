@@ -2,7 +2,7 @@
 
   [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
 
- >Projects
+ >**PROJECTS**
 
  - [Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)
  - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)
