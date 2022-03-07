@@ -90,7 +90,7 @@
 
    * [GitHub Repository](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FWHITE-BOX-CARTOONIZATION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Famey-thakur.github.io%2FWHITE-BOX-CARTOONIZATION)
      
-     *  [Published Article](https://www.researchgate.net/publication/353129069_White-box_Cartoonization_using_an_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
+     *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
      *  [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework)
      *  [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
      *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/White-Box-Cartoonization-Using-An-Extended-GAN-Framework/attachment/6118a3ab181c2e4f4a8088dc/AS:1056936531349506@1629004714821/download/White-Box+Cartoonization+Working+Model.mp4?context=ProjectUpdatesLog)
