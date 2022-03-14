@@ -17,7 +17,7 @@
  - **[Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)**
  - **[Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)**
  - **[QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)**
- - **[Pizza Ordering Chatbot Using Amazon Lex](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB#project)**
+ - **[Pizza Ordering Chatbot Using Amazon Lex](https://github.com/Amey-Thakur/RESEARCHGATE#pizza-ordering-chatbot-using-amazon-lex)**
 
 ##
 
