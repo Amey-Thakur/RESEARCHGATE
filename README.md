@@ -186,7 +186,7 @@
 
    * [Project](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex)
 
-     *  [Presentation](https://www.researchgate.net/publication/359218937_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22024.29447)
+     *  [Presentation](https://www.researchgate.net/publication/359218937_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
 
 - Author: Amey Thakur, Mega Satish & Hasan Rizvi
 
