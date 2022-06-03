@@ -2,6 +2,7 @@
 
   [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
 
+
  >**PROJECTS**
 
  - **[Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)**
@@ -190,5 +191,9 @@
      *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
 
 - Authors: Amey Thakur & Mega Satish
+
+
+
+
 
 
