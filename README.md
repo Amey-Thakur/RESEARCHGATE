@@ -6,30 +6,50 @@
  >**PROJECTS**
 
  - **[Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)**
+
  - **[Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)**
+ 
  - **[Car Rental Database System](https://github.com/Amey-Thakur/RESEARCHGATE#car-rental-database-system)**
+ 
  - **[Digital Bookstore](https://github.com/Amey-Thakur/RESEARCHGATE#digital-bookstore)**
+
  - **[White-Box Cartoonization Using An Extended GAN Framework](https://github.com/Amey-Thakur/RESEARCHGATE#white-box-cartoonization-using-an-extended-gan-framework)**
+ 
  - **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/RESEARCHGATE#bangalore-house-price-prediction)**
+
  - **[Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#neural-networks)**
+ 
     - **[Fundamentals of Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#fundamentals-of-neural-networks)**
+    
     - **[Generative Adversarial Networks](https://github.com/Amey-Thakur/RESEARCHGATE#generative-adversarial-networks)**
+
  - **[Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://github.com/Amey-Thakur/RESEARCHGATE#neuro-fuzzy-artificial-neural-networks--fuzzy-logic)**
+ 
  - **[Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)**
+
  - **[Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)**
+ 
  - **[QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)**
+ 
  - **[Pizza Ordering Chatbot Using Amazon Lex](https://github.com/Amey-Thakur/RESEARCHGATE#pizza-ordering-chatbot-using-amazon-lex)**
+
 
 ##
 
  >**AUTHORS | [LAB](https://www.researchgate.net/lab/Amey-Thakur-Lab-3)**
 
  - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur)**
+ 
  - **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish)**
+ 
  - **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**
+ 
  - **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**
+ 
  - **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**
+ 
  - **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**
+ 
  - **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**
 
 ---
@@ -191,9 +211,4 @@
      *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
 
 - Authors: Amey Thakur & Mega Satish
-
-
-
-
-
 
