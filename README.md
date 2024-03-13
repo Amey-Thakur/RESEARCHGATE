@@ -211,4 +211,3 @@
      *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
 
 - Authors: Amey Thakur & Mega Satish
-
