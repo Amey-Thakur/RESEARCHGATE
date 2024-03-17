@@ -2,6 +2,25 @@
 
   [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
 
+---
+
+ >**AUTHORS | [LAB](https://www.researchgate.net/lab/Amey-Thakur-Lab-3)**
+
+ - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur) | ORCID - [https://orcid.org/0000-0001-5644-1575](https://orcid.org/0000-0001-5644-1575)**
+ 
+ - **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish) | ORCID - [https://orcid.org/0000-0002-1844-9557](https://orcid.org/0000-0002-1844-9557)**
+ 
+ - **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**
+ 
+ - **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**
+ 
+ - **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**
+ 
+ - **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**
+ 
+ - **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**
+
+---
 
  >**PROJECTS**
 
@@ -32,25 +51,6 @@
  - **[QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)**
  
  - **[Pizza Ordering Chatbot Using Amazon Lex](https://github.com/Amey-Thakur/RESEARCHGATE#pizza-ordering-chatbot-using-amazon-lex)**
-
-
-##
-
- >**AUTHORS | [LAB](https://www.researchgate.net/lab/Amey-Thakur-Lab-3)**
-
- - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur)**
- 
- - **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish)**
- 
- - **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**
- 
- - **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**
- 
- - **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**
- 
- - **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**
- 
- - **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**
 
 ---
 
