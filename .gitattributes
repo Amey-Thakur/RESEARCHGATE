@@ -1,19 +1,34 @@
 # Standardized Git Attributes for Scholarly Archiving
 
-# Handle line endings automatically for files detected as text
-# and perform LF normalization on checkin.
+# Handle line endings automatically
 * text=auto eol=lf
 
 # Explicitly mark source files as text
 *.md text
 *.txt text
+*.java text
+*.php text
+*.js text
+*.css text
+*.html text
+*.julia text
+*.ipynb text
+*.json text
+*.cff text
 
 # Mark binary files
 *.jpg binary
 *.png binary
 *.gif binary
 *.ico binary
-*.pdf binary
 
-# Academic/Scholarly classification
+# LFS for large binaries
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+
+# Linguist classifications for ResearchGate aesthetic
 *.md linguist-documentation
+*.pdf linguist-documentation
+CITATION.cff linguist-documentation
+codemeta.json linguist-documentation

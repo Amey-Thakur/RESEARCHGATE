@@ -9,3 +9,34 @@ Desktop.ini
 *.swp
 *.swo
 *.tmp
+
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+bin/
+
+# Web/PHP
+node_modules/
+vendor/
+.phpintel/
+
+# IDE/Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
