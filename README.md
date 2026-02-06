@@ -162,57 +162,67 @@
    *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
  
  - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
-
-
-
-## Optimizing Stock Trading Strategy With Reinforcement Learning
-
- - [X] **Project Goal: The main emphasis and objective of our project is to analyze given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
-
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FOPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fstock-trading-with-rl.herokuapp.com)
-
-     *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
-
- - Author: Amey Thakur
-
-
-
-## Text Summarizer
-
- - [X] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
-
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FTEXT-SUMMARIZER) | [Web Application](https://www.researchgate.net/deref/http%3A%2F%2Ftextssummarizer.herokuapp.com)
-
-     *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
-     *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
-
- - Authors: Amey Thakur & Mega Satish
-
-
-
-## QuadTree Visualizer
-
- - [X] **Project Goal - An application capable of presenting a view of QuadTree. Design and development of quad tree view and data model.**
-
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FQUADTREE-VISUALIZER)
-   
- - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
-
-
-
-## Pizza Ordering Chatbot Using Amazon Lex
-
- - [X] **Project Goal: To learn how to use Amazon Lex to build a chatbot on AWS.**
-
-   * [Project](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex)
-
-     *  [Published Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](https://doi.org/10.22214/ijraset.2022.40861)
-     *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
-
-- Authors: Amey Thakur & Mega Satish
-
----
-
-<p align="center"><a href='https://www.researchgate.net/profile/Amey-Thakur' style='color: greenyellow;'> <b> 👉🏻 ResearchGate 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a> </p> 
+ 
+ 
+ ## Optimizing Stock Trading Strategy With Reinforcement Learning
+ 
+  - [X] **Project Goal: The main emphasis and objective of our project is to analyze given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
+ 
+    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FOPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fstock-trading-with-rl.herokuapp.com)
+ 
+      *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
+ 
+  - Author: Amey Thakur
+ 
+ 
+ 
+ ## Text Summarizer
+ 
+  - [X] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
+ 
+    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FTEXT-SUMMARIZER) | [Web Application](https://www.researchgate.net/deref/http%3A%2F%2Ftextssummarizer.herokuapp.com)
+ 
+      *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
+      *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
+ 
+  - Authors: Amey Thakur & Mega Satish
+ 
+ 
+ 
+ ## QuadTree Visualizer
+ 
+  - [X] **Project Goal - An application capable of presenting a view of QuadTree. Design and development of quad tree view and data model.**
+ 
+    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FQUADTREE-VISUALIZER)
+    
+  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
+ 
+ 
+ 
+ ## Pizza Ordering Chatbot Using Amazon Lex
+ 
+  - [X] **Project Goal: To learn how to use Amazon Lex to build a chatbot on AWS.**
+ 
+    * [Project](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex)
+ 
+      *  [Published Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](https://doi.org/10.22214/ijraset.2022.40861)
+      *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
+ 
+ - Authors: Amey Thakur & Mega Satish
+ 
+ ---
+ 
+ ## License
+ 
+ This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+ 
+ **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
+ 
+ Copyright © 2022 Amey Thakur & Mega Satish
+ 
+ ---
+ 
+ <p align="center"><a href='https://www.researchgate.net/profile/Amey-Thakur' style='color: greenyellow;'> <b> 👉🏻 ResearchGate 👈🏻 </b> </p>
+  
+ <p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a> </p>
