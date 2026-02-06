@@ -4,7 +4,7 @@
 
 ---
 
- >**AUTHORS | [Research Lab](https://www.researchgate.net/lab/Amey-Lab-Amey-Thakur)**
+ >**AUTHORS | [Research Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
 
  - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur) | ORCID - [https://orcid.org/0000-0001-5644-1575](https://orcid.org/0000-0001-5644-1575)**
  
