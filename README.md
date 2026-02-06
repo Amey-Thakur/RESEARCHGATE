@@ -1,4 +1,4 @@
-# RESEARCHGATE
+# ResearchGate
 
   [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
 
@@ -108,11 +108,10 @@
 
 ## White-Box Cartoonization Using An Extended GAN Framework
 
- - [X] **Project Goal: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
+ - [X] **Project Goal: An implementation of the White-Box Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
 
    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FWHITE-BOX-CARTOONIZATION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Famey-thakur.github.io%2FWHITE-BOX-CARTOONIZATION)
-     
-     *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
+     *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
      *  [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework)
      *  [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
      *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/White-Box-Cartoonization-Using-An-Extended-GAN-Framework/attachment/6118a3ab181c2e4f4a8088dc/AS:1056936531349506@1629004714821/download/White-Box+Cartoonization+Working+Model.mp4?context=ProjectUpdatesLog)
@@ -156,19 +155,19 @@
 
 
 ## Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
-
- - [X] **Project Goal: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
-
-     *  [Published Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930)
-     *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
-
+ 
+ - [x] **Project Goal: Understanding Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
+ 
+   *  [Published Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930)
+   *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
+ 
  - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
 
 
 
 ## Optimizing Stock Trading Strategy With Reinforcement Learning
 
- - [X] **Project Goal: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
+ - [X] **Project Goal: The main emphasis and objective of our project is to analyze given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
 
    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FOPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fstock-trading-with-rl.herokuapp.com)
 
@@ -180,11 +179,11 @@
 
 ## Text Summarizer
 
- - [X] **Project Goal:  In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
+ - [X] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
 
    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FTEXT-SUMMARIZER) | [Web Application](https://www.researchgate.net/deref/http%3A%2F%2Ftextssummarizer.herokuapp.com)
 
-     *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia?_iepl%5BviewId%5D=WrNGmfvy7U9AdrOU5z1DVJ0z&_iepl%5Bcontexts%5D%5B0%5D=projectUpdatesLog&_iepl%5BtargetEntityId%5D=PB%3A358130954&_iepl%5BinteractionType%5D=publicationView) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
+     *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
      *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
 
  - Authors: Amey Thakur & Mega Satish
@@ -193,7 +192,7 @@
 
 ## QuadTree Visualizer
 
- - [X] **Project Goal - An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.**
+ - [X] **Project Goal - An application capable of presenting a view of QuadTree. Design and development of quad tree view and data model.**
 
    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FQUADTREE-VISUALIZER)
    
@@ -214,6 +213,6 @@
 
 ---
 
-<p align="center"><a href='https://www.researchgate.net/profile/Amey-Thakur', style='color: greenyellow;'> <b> 👉🏻 ResearchGate 👈🏻 <b> </p>
+<p align="center"><a href='https://www.researchgate.net/profile/Amey-Thakur' style='color: greenyellow;'> <b> 👉🏻 ResearchGate 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p> 
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a> </p> 
