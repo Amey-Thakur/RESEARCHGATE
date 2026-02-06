@@ -1,0 +1,45 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "RESEARCHGATE",
+    "description": "A curated collection of scholarly articles, presentations, technical reports, and project implementations, designed for academic archival and reference purposes in the fields of Computer Science and Engineering.",
+    "identifier": "RESEARCHGATE",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "programmingLanguage": [
+        "Python",
+        "Java",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2022-03-05",
+    "codeRepository": "https://github.com/Amey-Thakur/RESEARCHGATE",
+    "developmentStatus": "complete",
+    "applicationCategory": "Education / Research / Scholarly Publications",
+    "keywords": [
+        "ResearchGate",
+        "Scholarly Publications",
+        "Machine Learning",
+        "Neural Networks",
+        "Computer Science",
+        "Engineering",
+        "Artificial Intelligence",
+        "Reinforcement Learning"
+    ]
+}
