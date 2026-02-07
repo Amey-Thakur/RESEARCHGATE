@@ -356,7 +356,7 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 
   <br>
 
-  👉🏻 **[ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)**
+  <img src="docs/RG_square_green.jpg" width="22" height="22" valign="bottom"> **[ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)**
 
   ---
 
