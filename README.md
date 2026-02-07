@@ -10,7 +10,7 @@
 
   An authoritative technical companion and scholarly archival mirror designed to synchronize functional implementations with research artifacts shared on the **ResearchGate** platform.
 
-  **[Source Code](ResearchGate/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)**
+  **[Source Code](ResearchGate/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; <img src="docs/RG_square_green.jpg" width="22" height="22" valign="bottom"> **[ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)**
 
 </div>
 
