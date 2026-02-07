@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Pathways](#learning-pathways) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
