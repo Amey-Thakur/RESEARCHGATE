@@ -1,7 +1,7 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  # <img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle"> ResearchGate
+  # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -356,7 +356,7 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 
   <br>
 
-  <img src="docs/RG_square_green.jpg" width="22" height="22" valign="bottom"> **[ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)**
+  [<img src="docs/RG_square_green.jpg" width="22" height="22" valign="bottom">](https://www.researchgate.net/profile/Amey-Thakur) **[ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)**
 
   ---
 
