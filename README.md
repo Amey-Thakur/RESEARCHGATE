@@ -256,7 +256,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Fundamentals of Neural Networks</strong> &nbsp; <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Citations-250%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Research_Interest-212.7-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Reads-1.75_Lac%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Fundamentals of Neural Networks</strong> &nbsp; <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Citations-250%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Research_Interest-212.7-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Reads-175%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Understanding the concepts of neural networks and how to put them into practice.
 
