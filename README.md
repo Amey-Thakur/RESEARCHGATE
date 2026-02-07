@@ -11,7 +11,7 @@
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Multi--Language-blueviolet.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
+  [![Technology](https://img.shields.io/badge/Technology-Multi--Language-orange.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
   [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   An authoritative technical companion and scholarly archival mirror designed to synchronize functional implementations with research artifacts shared on the **ResearchGate** platform.
