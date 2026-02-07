@@ -133,8 +133,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong></summary>
 
@@ -151,8 +149,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>Car Rental Database System</strong></summary>
 
@@ -165,8 +161,6 @@ RESEARCHGATE/
  - Author: Amey Thakur
 
 </details>
-
----
 
 <details>
 <summary><strong>Digital Bookstore</strong></summary>
@@ -200,8 +194,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>Bangalore House Price Prediction</strong></summary>
 
@@ -215,8 +207,6 @@ RESEARCHGATE/
  - Authors: Amey Thakur & Mega Satish
 
 </details>
-
----
 
 <details>
 <summary><strong>Neural Networks</strong></summary>
@@ -239,8 +229,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong></summary>
 
@@ -252,8 +240,6 @@ RESEARCHGATE/
  - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
 
 </details>
-
----
 
 <details>
 <summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong></summary>
@@ -268,8 +254,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>Text Summarizer</strong></summary>
 
@@ -283,8 +267,6 @@ RESEARCHGATE/
  - Authors: Amey Thakur & Mega Satish
 
 </details>
-
----
 
 <details>
 <summary><strong>QuadTree Visualizer</strong></summary>
