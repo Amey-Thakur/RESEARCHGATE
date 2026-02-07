@@ -225,7 +225,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong></summary>
+<summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong> &nbsp; <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.
 
