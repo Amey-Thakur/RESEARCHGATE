@@ -126,7 +126,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| Interactive Logic | [Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082) &middot; [Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4) | [Open](ResearchGate/Hangman%20Word%20Game/) |
+| Interactive Logic | [Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082) &middot; [Presentation](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4) | [Open](ResearchGate/Hangman%20Word%20Game/) |
 
 - **Authors**: Amey Thakur, Mega Satish & Saakshi Deokar
 
@@ -139,7 +139,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| Web Engineering | [Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [DOI](http://dx.doi.org/10.6084/M9.FIGSHARE.14869167) &middot; [Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4) | [Open](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/) |
+| Web Engineering | [Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX) &middot; [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [DOI](http://dx.doi.org/6084/M9.FIGSHARE.14869167) &middot; [Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4) | [Open](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/) |
 
 - **Authors**: Amey Thakur & Karan Dhiman
 
@@ -178,7 +178,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| AI Research | [Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049) &middot; [Demo](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/White-BoxCartoonizationWorkingModel.mp4) | [Open](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/) |
+| AI Research | [Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) &middot; [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049) &middot; [Demo](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/White-BoxCartoonizationWorkingModel.mp4) | [Open](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/) |
 
 - **Authors**: Amey Thakur, Mega Satish & Hasan Rizvi
 
@@ -204,7 +204,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| NLP Research | [Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066) | [Open](ResearchGate/Text%20Summarizer%20Using%20Julia/) |
+| NLP Research | [Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) &middot; [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066) &middot; [Web App](http://textssummarizer.herokuapp.com) | [Open](ResearchGate/Text%20Summarizer%20Using%20Julia/) |
 
 - **Authors**: Amey Thakur & Mega Satish
 
@@ -217,7 +217,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| AI Systems | [Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930) | [Open](ResearchGate/Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20&%20Fuzzy%20Logic/) |
+| AI Systems | [Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) &middot; [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930) | [Open](ResearchGate/Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20&%20Fuzzy%20Logic/) |
 
 - **Authors**: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
 
@@ -256,7 +256,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| AI Finance | [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440) | [Open](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
+| AI Finance | [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440) &middot; [Web App](https://stock-trading-with-rl.herokuapp.com) | [Open](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
 
 - **Author**: Amey Thakur
 
@@ -282,7 +282,7 @@ RESEARCHGATE/
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
-| AI Architecture | [Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) &middot; [DOI](https://doi.org/10.22214/ijraset.2022.40861) | [Open](ResearchGate/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/) |
+| AI Architecture | [Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) &middot; [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) &middot; [DOI](https://doi.org/10.22214/ijraset.2022.40861) | [Open](ResearchGate/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/) |
 
 - **Authors**: Amey Thakur & Mega Satish
 
