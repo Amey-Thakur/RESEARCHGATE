@@ -183,7 +183,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong></summary>
+<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong> &nbsp; <img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"> <img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"> <img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></summary>
 
 - [x] **Project Goal**: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
 
