@@ -95,22 +95,28 @@ The archival model is governed by strict **computational design patterns** ensur
 ```python
 RESEARCHGATE/
 │
-├── docs/                            # Project Documentation
-│   └── SPECIFICATION.md             # Technical Architecture
+├── docs/                                    # Project Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture
 │
-├── ResearchGate/                    # Primary Engineering Layer
-│   ├── Bangalore House Price Prediction/
-│   ├── CHAT ROOM/
-│   ├── Car Rental Database System/
-│   ├── Digital Bookstore/
-│   ├── ...                          # 10+ Research Modules
-│   └── ResearchGate.png             # Branding Asset
+├── ResearchGate/                            # Primary Engineering Layer
+│   ├── Bangalore House Price Prediction/    # ML: Price Forecasting
+│   ├── CHAT ROOM USING HTML.../             # Web: Chat Engineering
+│   ├── Car Rental Database System/          # Data: Schema Design
+│   ├── Digital Bookstore/                   # Web: Bookstore Architecture
+│   ├── Fundamentals of Neural Networks/     # AI: Core Theory & Implementation
+│   ├── Generative Adversarial Networks/     # AI: GAN Research
+│   ├── Hangman Word Game/                   # Logic: Applet Deduction
+│   ├── Neuro-Fuzzy - Artificial.../         # AI: Hybrid Systems
+│   ├── Pizza Ordering Chatbot.../           # AI: AWS Lex Interaction
+│   ├── Text Summarizer Using Julia/         # NLP: High-Performance Summarization
+│   ├── White-Box Cartoonization.../         # AI: Extended GAN Framework
+│   └── ResearchGate.png                     # Branding Asset
 │
-├── CITATION.cff                     # Project Citation Manifest
-├── codemeta.json                    # Metadata Standard
-├── LICENSE                          # CC BY 4.0 License
-├── SECURITY.md                      # Security Protocols
-└── README.md                        # Project Entrance
+├── CITATION.cff                             # Project Citation Manifest
+├── codemeta.json                            # Metadata Standard
+├── LICENSE                                  # CC BY 4.0 License
+├── SECURITY.md                              # Security Protocols
+└── README.md                                # Project Entrance
 ```
 
 ---
