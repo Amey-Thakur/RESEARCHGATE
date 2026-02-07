@@ -179,8 +179,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Hangman%20Word%20Game)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Hangman%20Word%20Game) | [Web Application](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
      *  [Published Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) - [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082)
      *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4?context=ProjectUpdatesLog)
 
