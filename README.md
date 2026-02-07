@@ -1,14 +1,13 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  <h1>RESEARCHGATE</h1>
+  # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Citations-390%2B-blueviolet" alt="Total Citations"></a>
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Recommendations-250%2B-00CCBB" alt="Total Recommendations"></a>
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Reads-1.1M%2B-00CCBB" alt="Total Reads"></a>
 
   <br>
-  # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
