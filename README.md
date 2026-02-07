@@ -51,13 +51,13 @@
 
   [![Research Lab](https://img.shields.io/badge/Research-Lab-blue.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
   <br>
-  ### **[Amey Thakur Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
+  ### **[Amey Thakur's Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
   *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
 
 </div>
 
 > [!NOTE]
-> This repository serves as a deterministic technical archival mirror for the **[Amey Thakur Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**. It synchronizes functional technical implementations with the scholarly research artifacts shared across the global ResearchGate network.
+> This repository serves as a deterministic technical archival mirror for the **[Amey Thakur's Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**. It synchronizes functional technical implementations with the scholarly research artifacts shared across the global ResearchGate network.
 
 ---
 
