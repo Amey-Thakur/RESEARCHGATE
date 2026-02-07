@@ -332,7 +332,20 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 
 ### Acknowledgments
 
-Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+> [!IMPORTANT]
+> **Scholarly Collaboration & Institutional Gratitude**
+>
+> This repository is the result of a rigorous collective effort. Special recognition is extended to the following researchers for their indispensable technical and theoretical contributions:
+>
+> *   **[Amey Thakur](https://github.com/Amey-Thakur)**: For the architectural vision, systematic archival strategy, and leading research across the primary engineering layer.
+> *   **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish)**: For extensive research in Generative Adversarial Networks (GANs), NLP summarization, and core engineering contributions that bridge the gap between theory and implementation.
+> *   **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**: For specialized contributions to Web Engineering and hybrid Neuro-Fuzzy architectural frameworks.
+> *   **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**: For critical insights into Computer Vision and high-fidelity GAN framework analysis.
+> *   **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**: For foundational research into Artificial Neural Networks and hybrid computational intelligence.
+> *   **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**: For scholarly exposition and theoretical research into the core principles of Neural Networks.
+> *   **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**: For engineering implementations in interactive logic and the development of scholarly applet demonstrations.
+>
+> Heartfelt thanks also to the **mentors and peers** whose encouragement, rigorous discussions, and academic support contributed meaningfully to the fidelity of this archival mirror.
 
 ---
 
