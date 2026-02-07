@@ -6,7 +6,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Multi--Language-blueviolet.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
-  [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   A curated collection of scholarly articles, technical reports, and project implementations, engineered for academic archival and reference in the fields of Computer Science and Engineering.
 
