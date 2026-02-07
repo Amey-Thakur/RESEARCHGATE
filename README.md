@@ -28,13 +28,18 @@
 <div align="center">
 
   <a name="authors"></a>
-  ## Authors
+  ## Authors | [Research Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
 
 | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
 | :---: |
 
 </div>
 
+<div align="center">
+
+  - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) &nbsp;·&nbsp; [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) &nbsp;·&nbsp; [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3) &nbsp;·&nbsp; [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8) &nbsp;·&nbsp; [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar) &nbsp;·&nbsp; [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde) &nbsp;·&nbsp; [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
+
+</div>
 
 ---
 
@@ -73,18 +78,6 @@ The archival model is governed by strict **computational design patterns** ensur
 | **Visual Validation** | Integrated **MP4 Demos** and high-resolution **Results Gallery**. |
 | **Citation Standards** | Formalized metadata using **CITATION.cff** and **codemeta.json**. |
 | **Structural Clarity** | Detailed codebase documentation following rigorous academic standards. |
-
-> [!NOTE]
-> ### The Research Corridor
-> We have engineered a **Scholarly-Driven Archival Manager** that calibrates research artifacts across multiple vectors. The visual language focuses on transparency and peer-review readiness, ensuring maximum focus on the research trajectory.
-
-### Tech Stack
-- **Languages**: Python, Java, PHP, JavaScript, Julia, SQL
-- **Models**: GANs, Reinforcement Learning, Neural Networks
-- **Web**: HTML5, CSS3, AJAX, Amazon Lex
-- **Archival**: DOI Mapping, PDF Publication, MP4 Documentation
-- **Metadata**: CFF v1.2.0, Codemeta 2.0
-- **License**: CC BY 4.0 (Creative Commons)
 
 ---
 
@@ -245,6 +238,71 @@ RESEARCHGATE/
 
 </details>
 
+<details>
+<summary><strong>Fundamentals of Neural Networks</strong></summary>
+
+- [x] **Project Goal: Scholarly exposition on the foundational principles of Neural Networks.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Theory | [Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362) | [Open](ResearchGate/Fundamentals%20of%20Neural%20Networks/) |
+
+- **Authors**: Amey Thakur & Archit Konde
+
+</details>
+
+<details>
+<summary><strong>Generative Adversarial Networks (GANs)</strong></summary>
+
+- [x] **Project Goal: Technical research into GAN architectures and latent space manipulation.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Research | [Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723) | [Open](ResearchGate/Generative%20Adversarial%20Networks/) |
+
+- **Authors**: Amey Thakur & Mega Satish
+
+</details>
+
+<details>
+<summary><strong>Optimizing Stock Trading with Reinforcement Learning</strong></summary>
+
+- [x] **Project Goal: Application of RL agents to maximize predictive accuracy in stock market dynamics.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Finance | [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440) | [Open](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
+
+- **Author**: Amey Thakur
+
+</details>
+
+<details>
+<summary><strong>QuadTree Visualizer</strong></summary>
+
+- [x] **Project Goal: Design and development of a QuadTree data model and visualizer.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Computer Vision | [Project](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) | [Open](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
+
+- **Authors**: Amey Thakur, Mega Satish & Hasan Rizvi
+
+</details>
+
+<details>
+<summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong></summary>
+
+- [x] **Project Goal: Integration of conversational AI via Amazon Lex on AWS infrastructure.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Architecture | [Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) &middot; [DOI](https://doi.org/10.22214/ijraset.2022.40861) | [Open](ResearchGate/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/) |
+
+- **Authors**: Amey Thakur & Mega Satish
+
+</details>
+
 ---
 
 <!-- USAGE GUIDELINES -->
@@ -288,7 +346,6 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
-
 
 Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
