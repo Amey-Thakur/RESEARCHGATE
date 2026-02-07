@@ -291,8 +291,12 @@ RESEARCHGATE/
 
  - Authors: Amey Thakur & Archit Konde
 
+</details>
 
- ### Generative Adversarial Networks
+<details>
+<summary><strong>Generative Adversarial Networks</strong><br><a href="https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks"><img src="https://img.shields.io/badge/Citations-20%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks"><img src="https://img.shields.io/badge/Research_Interest-23.6-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks"><img src="https://img.shields.io/badge/Recommendations-35%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks"><img src="https://img.shields.io/badge/Reads-80%2C000%2B-00CCBB" alt="Reads"></a></summary>
+
+- [x] **Project Goal**: Comprehensive study and implementation of Generative Adversarial Networks (GANs).
 
    - [Published Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723)
 
