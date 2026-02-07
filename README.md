@@ -176,7 +176,7 @@ RESEARCHGATE/
    * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Hangman%20Word%20Game)
 
      *  [Published Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) - [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082)
-     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4)
+     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4?context=ProjectUpdatesLog)
 
  - Authors: Amey Thakur, Mega Satish & Saakshi Deokar
 
@@ -189,10 +189,10 @@ RESEARCHGATE/
 
    * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX)
 
-     *  [Published Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/6084/M9.FIGSHARE.14869167)
+     *  [Published Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.6084/M9.FIGSHARE.14869167)
      *  [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX)
      *  [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.16257.38248)
-     *  [Project Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4)
+     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Chat-Room-using-HTML-PHP-CSS-JS-AJAX/attachment/6118a1b52897145fbd691ee6/AS:1056934430007296@1629004213319/download/Chat+Room.mp4?context=ProjectUpdatesLog)
 
  - Authors: Amey Thakur & Karan Dhiman
 
