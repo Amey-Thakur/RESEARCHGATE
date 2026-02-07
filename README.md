@@ -18,46 +18,28 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
-<!-- AUTHORS -->
-<div align="center">
-
-  <a name="authors"></a>
-  ## Authors
-
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
-| :---: |
-
-</div>
-
-<div align="center">
-
-  - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) &nbsp;·&nbsp; [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) &nbsp;·&nbsp; [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3) &nbsp;·&nbsp; [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8) &nbsp;·&nbsp; [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar) &nbsp;·&nbsp; [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde) &nbsp;·&nbsp; [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
-
-</div>
-
----
 
 <!-- RESEARCH LAB -->
 <a name="research-lab"></a>
-## Research Lab
+## Scholarly Research Foundation
 
 <div align="center">
 
   [![Research Lab](https://img.shields.io/badge/Research-Lab-blue.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
   <br>
-  ### **[Amey Thakur's Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
+  ### **[Research Lab - Amey Thakur](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
   *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
 
-  **Lab Members**
+  **Research Contributors**
 
-  - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur)
-  - [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish)
+  - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575)
+  - [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557)
   - [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3)
   - [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8)
   - [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar)
@@ -67,7 +49,7 @@
 </div>
 
 > [!NOTE]
-> This repository serves as a deterministic technical archival mirror for the **[Amey Thakur's Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**. It synchronizes functional technical implementations with the scholarly research artifacts shared across the global ResearchGate network.
+> This repository functions as a deterministic technical archival mirror for scholarly implementations. It synchronizes functional research outputs with the academic artifacts shared across the global **[ResearchGate](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)** network.
 
 ---
 
