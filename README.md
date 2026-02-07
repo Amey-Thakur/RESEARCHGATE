@@ -196,8 +196,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX) | [Web Application](https://amey-thakur.github.io/CHAT-ROOM/)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/CHAT-ROOM)
      *  [Published Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.6084/M9.FIGSHARE.14869167)
      *  [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX)
      *  [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.16257.38248)
