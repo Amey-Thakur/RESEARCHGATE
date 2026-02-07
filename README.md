@@ -302,7 +302,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Text Summarizer</strong></summary>
+<summary><strong>Text Summarizer</strong> &nbsp; <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Citations-5%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Reads-20%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
 
