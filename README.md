@@ -3,6 +3,10 @@
   <a name="readme-top"></a>
   # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
+  [![Citations](https://img.shields.io/badge/Citations-228%2B-goldenrod)](https://www.researchgate.net/profile/Amey-Thakur)
+  [![Research Interest](https://img.shields.io/badge/Research_Interest-High-success)](https://www.researchgate.net/profile/Amey-Thakur)
+  [![Scholar](https://img.shields.io/badge/Total_Reads-15k%2B-00ccbb)](https://www.researchgate.net/profile/Amey-Thakur)
+  <br>
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Multi--Language-blueviolet.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
