@@ -212,7 +212,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Digital Bookstore</strong></summary>
+<summary><strong>Digital Bookstore</strong> &nbsp; <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Research_Interest-20.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Reads-50%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
 
