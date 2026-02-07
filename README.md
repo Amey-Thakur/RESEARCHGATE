@@ -328,7 +328,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong></summary>
+<summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong> &nbsp; <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Research_Interest-8.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Reads-25%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: To learn how to use Amazon Lex to build a chatbot on AWS.
 
