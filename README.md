@@ -32,12 +32,9 @@
 <div align="center">
 
   [![Research Lab](https://img.shields.io/badge/Research-Lab-blue.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
-  <br><br>
 
   ### **[Research Lab - Amey Thakur](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
   *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
-
-  <br>
 
   **Research Contributors**
 
