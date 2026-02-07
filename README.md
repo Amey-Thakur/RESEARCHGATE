@@ -337,7 +337,6 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 >
 > This repository is the result of a rigorous collective effort. Special recognition is extended to the following researchers for their indispensable technical and theoretical contributions:
 >
-> *   **[Amey Thakur](https://github.com/Amey-Thakur)**: For the architectural vision, systematic archival strategy, and leading research across the primary engineering layer.
 > *   **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish)**: For extensive research in Generative Adversarial Networks (GANs), NLP summarization, and core engineering contributions that bridge the gap between theory and implementation.
 > *   **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**: For specialized contributions to Web Engineering and hybrid Neuro-Fuzzy architectural frameworks.
 > *   **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**: For critical insights into Computer Vision and high-fidelity GAN framework analysis.
