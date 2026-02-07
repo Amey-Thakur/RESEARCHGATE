@@ -169,7 +169,7 @@ RESEARCHGATE/
 > Click on each section below to expand and view the curated research projects with direct access to technical documentation and scholarly articles.
 
 <details>
-<summary><strong>Hangman Word Game</strong> &nbsp; ![Research Interest](https://img.shields.io/badge/Research_Interest-4.3-00CCBB) ![Recommendations](https://img.shields.io/badge/Recommendations-13-00CCBB) ![Reads](https://img.shields.io/badge/Reads-1000%2B-00CCBB)</summary>
+<summary><strong>Hangman Word Game</strong> &nbsp; <img src="https://img.shields.io/badge/Research_Interest-4.3-00CCBB" alt="Research Interest"> <img src="https://img.shields.io/badge/Recommendations-13-00CCBB" alt="Recommendations"> <img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></summary>
 
 - [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
