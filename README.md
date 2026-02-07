@@ -277,7 +277,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong></summary>
+<summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong> &nbsp; <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Research_Interest-23.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Reads-10k%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.
 
