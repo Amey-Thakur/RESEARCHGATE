@@ -247,8 +247,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework) | [Web Application](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework) | [Web Application](https://huggingface.co/spaces/ameythakur/white-box-cartoonization)
      
+     *  [GitHub Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION)
      *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
      *  [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework)
      *  [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
