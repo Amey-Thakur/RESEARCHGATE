@@ -169,7 +169,7 @@ RESEARCHGATE/
 > Click on each section below to expand and view the curated research projects with direct access to technical documentation and scholarly articles.
 
 <details>
-<summary><strong>Hangman Word Game</strong> &nbsp; <img src="https://img.shields.io/badge/Research_Interest-4.3-00CCBB" alt="Research Interest"> <img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"> <img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></summary>
+<summary><strong>Hangman Word Game</strong> &nbsp; <a href="https://www.researchgate.net/project/Hangman-Word-Game"><img src="https://img.shields.io/badge/Research_Interest-4.3-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/project/Hangman-Word-Game"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/project/Hangman-Word-Game"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
@@ -183,7 +183,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong> &nbsp; <img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"> <img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"> <img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></summary>
+<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong> &nbsp; <a href="https://www.researchgate.net/project/Chat-Room-using-HTML-PHP-CSS-JS-AJAX"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/project/Chat-Room-using-HTML-PHP-CSS-JS-AJAX"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/project/Chat-Room-using-HTML-PHP-CSS-JS-AJAX"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
 
