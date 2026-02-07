@@ -82,7 +82,7 @@ The archival model is governed by strict **computational design patterns** ensur
 <a name="learning-pathways"></a>
 ## Systematic Learning Pathways
 
-> [!TIP]
+> [!NOTE]
 > **Curriculum Roadmap**: This repository is structured as a **progressive computational curriculum**. Follow these verified pathways to master specific domains, moving from **Theoretical Foundations** to **Production-Grade Implementation**.
 
 ### **Track A: The AI Researcher**
@@ -404,7 +404,7 @@ This project features **ResearchGate**, a curated scholarly archival system. It 
 
   [↑ Back to Top](#readme-top)
 
-  [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Pathways](#learning-pathways) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
