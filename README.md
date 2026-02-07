@@ -183,7 +183,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong> &nbsp; <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong> &nbsp; <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Citations-20%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
 
@@ -199,7 +199,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Car Rental Database System</strong> &nbsp; <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-300%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Car Rental Database System</strong> &nbsp; <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-50%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-300%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Create a simple Car Rental Database Management System.
 
