@@ -2,7 +2,7 @@
 
 ## Architectural Overview
 
-**ResearchGate** is a curated, scholarly archival architecture designed to systematically document, preserve, and showcase a diverse range of technical research projects spanning across the fields of **Computer Science and Engineering**. The project serves as a comprehensive academic repository, bridging the gap from theoretical system design to functional technical implementations and peer-reviewed scholarly publications.
+**ResearchGate (Technical Archival)** is an authoritative scholarly companion and archival mirror designed to systematically document and synchronize a diverse range of technical research projects with the ResearchGate network. The system serves as a deterministic academic repository, bridging the gap from theoretical research to functional technical implementations and verified scholarly publications.
 
 ### Scholarly Archival Flow
 
