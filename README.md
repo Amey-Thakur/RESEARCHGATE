@@ -256,12 +256,12 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Neural Networks</strong></summary>
+<summary><strong>Fundamentals of Neural Networks</strong></summary>
 
 - [x] **Project Goal**: Understanding the concepts of neural networks and how to put them into practice.
 
 
- ### Fundamentals of Neural Networks
+
 
    - [Published Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362)
 
