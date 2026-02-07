@@ -358,7 +358,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.
 
-   * [Project](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/QuadTree%20Visualizer) | [Web Application](https://amey-thakur.github.io/QUADTREE-VISUALIZER/)
+
+     *  [GitHub Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)
      *  [Published Article](https://www.researchgate.net/publication/360242672_QuadTree_Visualizer) - [DOI](https://doi.org/10.17577/IJERTV11IS040156)
    
  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
