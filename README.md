@@ -289,7 +289,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong></summary>
+<summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong> &nbsp; <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Recommendations-15%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.
 
