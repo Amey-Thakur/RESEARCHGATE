@@ -199,7 +199,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Car Rental Database System</strong> &nbsp; <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-15%2B-goldenrod" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-215k%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Car Rental Database System</strong> &nbsp; <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-15%2B-orange" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-300k%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Create a simple Car Rental Database Management System.
 
