@@ -3,9 +3,9 @@
   <a name="readme-top"></a>
   # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
-  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Citations-390%2B-blueviolet" alt="Total Citations"></a>
+  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Citations-500%2B-blueviolet" alt="Total Citations"></a>
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Recommendations-250%2B-00CCBB" alt="Total Recommendations"></a>
-  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Reads-1.1M%2B-00CCBB" alt="Total Reads"></a>
+  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Reads-2.1M%2B-00CCBB" alt="Total Reads"></a>
 
   <br>
 
