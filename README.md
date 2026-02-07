@@ -242,7 +242,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Bangalore House Price Prediction</strong></summary>
+<summary><strong>Bangalore House Price Prediction</strong> &nbsp; <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Research_Interest-34.6-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Reads-40%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Machine Learning Project to Predict House Prices in Bangalore.
 
