@@ -267,8 +267,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: Machine Learning Project to Predict House Prices in Bangalore.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Bangalore%20House%20Price%20Prediction) | [Web Application](https://bangalorehousepriceprediction.herokuapp.com)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Bangalore%20House%20Price%20Prediction) | [Web Application](https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
      *  [Published Article](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION)
      *  [Prediction Model](https://www.researchgate.net/profile/Amey-Thakur/project/Bangalore-House-Price-Prediction/attachment/613733e02897145fbd6f0f35/AS:1065337713876992@1631007712044/download/bangalore-house-price-prediction-model.ipynb?context=ProjectUpdatesLog)
 
