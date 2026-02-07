@@ -215,8 +215,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: Create a simple Car Rental Database Management System.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Car%20Rental%20Database%20System)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Car%20Rental%20Database%20System) | [Web Application](https://amey-thakur.github.io/CAR-RENTAL-SYSTEM/)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
      *  [Published Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339)
 
  - Author: Amey Thakur
