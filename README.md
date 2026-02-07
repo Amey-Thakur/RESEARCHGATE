@@ -122,169 +122,194 @@ RESEARCHGATE/
 <details>
 <summary><strong>Hangman Word Game</strong></summary>
 
-- [x] **Project Goal: Hangman Word Game using Applet in Java.**
+- [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Interactive Logic | [Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082) &middot; [Presentation](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4) | [Open](ResearchGate/Hangman%20Word%20Game/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Hangman%20Word%20Game)
 
-- **Authors**: Amey Thakur, Mega Satish & Saakshi Deokar
+     *  [Published Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) - [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082)
+     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4)
+
+ - Authors: Amey Thakur, Mega Satish & Saakshi Deokar
 
 </details>
+
+---
 
 <details>
 <summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong></summary>
 
-- [x] **Project Goal: Web-Based Chat Application using PHP, MySQL, JS, AJAX.**
+- [x] **Project Goal**: Web-Based Chat Application using PHP, MySQL, JS, AJAX.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Web Engineering | [Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX) &middot; [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [DOI](http://dx.doi.org/6084/M9.FIGSHARE.14869167) &middot; [Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4) | [Open](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX)
 
-- **Authors**: Amey Thakur & Karan Dhiman
+     *  [Published Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/6084/M9.FIGSHARE.14869167)
+     *  [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX)
+     *  [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.16257.38248)
+     *  [Project Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4)
+
+ - Authors: Amey Thakur & Karan Dhiman
 
 </details>
+
+---
 
 <details>
 <summary><strong>Car Rental Database System</strong></summary>
 
-- [x] **Project Goal: Create a simple Car Rental Database Management System.**
+- [x] **Project Goal**: Create a simple Car Rental Database Management System.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Data Systems | [Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339) | [Open](ResearchGate/Car%20Rental%20Database%20System/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Car%20Rental%20Database%20System)
 
-- **Author**: Amey Thakur
+     *  [Published Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339)
+
+ - Author: Amey Thakur
 
 </details>
+
+---
 
 <details>
 <summary><strong>Digital Bookstore</strong></summary>
 
-- [x] **Project Goal: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.**
+- [x] **Project Goal**: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Web Engineering | [Article](https://www.researchgate.net/publication/353332514_Digital_Bookstore) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.36609) | [Open](ResearchGate/Digital%20Bookstore/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Digital%20Bookstore)
 
-- **Authors**: Amey Thakur & Mega Satish
+     *  [Published Article](https://www.researchgate.net/publication/353332514_Digital_Bookstore) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36609)
+
+ - Authors: Amey Thakur & Mega Satish
 
 </details>
+
+---
 
 <details>
-<summary><strong>White-Box Cartoonization: GAN Framework</strong></summary>
+<summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong></summary>
 
-- [x] **Project Goal: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
+- [x] **Project Goal**: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Research | [Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) &middot; [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049) &middot; [Demo](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/White-BoxCartoonizationWorkingModel.mp4) | [Open](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework) | [Web Application](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+     
+     *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
+     *  [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework)
+     *  [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
+     *  [Project Demo](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/White-BoxCartoonizationWorkingModel.mp4)
+     *  [JOEY DOESN'T SHARE FOOD!! [Original vs Cartoonized]](https://www.researchgate.net/profile/Amey-Thakur/project/White-Box-Cartoonization-Using-An-Extended-GAN-Framework/attachment/6118a3ab2897145fbd691f1d/AS:1056936535527425@1629004715842/download/JOEY+DOESN%27T+SHARE+FOOD%21%21+%5BOriginal+vs+Cartoonized%5D.mp4?context=ProjectUpdatesLog)
 
-- **Authors**: Amey Thakur, Mega Satish & Hasan Rizvi
+ - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
 
 </details>
+
+---
 
 <details>
 <summary><strong>Bangalore House Price Prediction</strong></summary>
 
-- [x] **Project Goal: Machine Learning Project to Predict House Prices in Bangalore.**
+- [x] **Project Goal**: Machine Learning Project to Predict House Prices in Bangalore.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Machine Learning | [Article](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION) &middot; [Notebook](ResearchGate/Bangalore%20House%20Price%20Prediction/bangalore-house-price-prediction-model.ipynb) | [Open](ResearchGate/Bangalore%20House%20Price%20Prediction/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Bangalore%20House%20Price%20Prediction) | [Web Application](https://bangalorehousepriceprediction.herokuapp.com)
 
-- **Authors**: Amey Thakur & Mega Satish
+     *  [Published Article](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION)
+     *  [Prediction Model](https://www.researchgate.net/profile/Amey-Thakur/project/Bangalore-House-Price-Prediction/attachment/613733e02897145fbd6f0f35/AS:1065337713876992@1631007712044/download/bangalore-house-price-prediction-model.ipynb?context=ProjectUpdatesLog)
+
+ - Authors: Amey Thakur & Mega Satish
 
 </details>
+
+---
 
 <details>
-<summary><strong>Text Summarizer Using Julia</strong></summary>
+<summary><strong>Neural Networks</strong></summary>
 
-- [x] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
+- [x] **Project Goal**: Understanding the concepts of neural networks and how to put them into practice.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| NLP Research | [Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) &middot; [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066) &middot; [Web App](http://textssummarizer.herokuapp.com) | [Open](ResearchGate/Text%20Summarizer%20Using%20Julia/) |
 
-- **Authors**: Amey Thakur & Mega Satish
+ ### Fundamentals of Neural Networks
+
+   - [Published Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362)
+
+ - Authors: Amey Thakur & Archit Konde
+
+
+ ### Generative Adversarial Networks
+
+   - [Published Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723)
+
+ - Authors: Amey Thakur & Mega Satish
 
 </details>
+
+---
 
 <details>
-<summary><strong>Neuro-Fuzzy: ANN & Fuzzy Logic</strong></summary>
+<summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong></summary>
 
-- [x] **Project Goal: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
+- [x] **Project Goal**: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Systems | [Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) &middot; [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930) | [Open](ResearchGate/Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20&%20Fuzzy%20Logic/) |
+     *  [Published Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930)
+     *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
 
-- **Authors**: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
+ - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
 
 </details>
+
+---
 
 <details>
-<summary><strong>Fundamentals of Neural Networks</strong></summary>
+<summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong></summary>
 
-- [x] **Project Goal: Understanding the concepts of neural networks and how to put them into practice.**
+- [x] **Project Goal**: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Theory | [Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362) | [Open](ResearchGate/Fundamentals%20of%20Neural%20Networks/) |
+   * [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://stock-trading-with-rl.herokuapp.com)
 
-- **Authors**: Amey Thakur & Archit Konde
+     *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
+
+ - Author: Amey Thakur
 
 </details>
+
+---
 
 <details>
-<summary><strong>Generative Adversarial Networks (GANs)</strong></summary>
+<summary><strong>Text Summarizer</strong></summary>
 
-- [x] **Project Goal: Technical research into GAN architectures and latent space manipulation.**
+- [x] **Project Goal**: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Research | [Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723) | [Open](ResearchGate/Generative%20Adversarial%20Networks/) |
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Text%20Summarizer%20Using%20Julia) | [Web Application](http://textssummarizer.herokuapp.com)
 
-- **Authors**: Amey Thakur & Mega Satish
+     *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
+     *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
 
-</details>
-
-<details>
-<summary><strong>Optimizing Stock Trading with Reinforcement Learning</strong></summary>
-
-- [x] **Project Goal: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
-
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Finance | [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440) &middot; [Web App](https://stock-trading-with-rl.herokuapp.com) | [Open](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
-
-- **Author**: Amey Thakur
+ - Authors: Amey Thakur & Mega Satish
 
 </details>
+
+---
 
 <details>
 <summary><strong>QuadTree Visualizer</strong></summary>
 
-- [x] **Project Goal - An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.**
+- [x] **Project Goal**: An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| Computer Vision | [Project](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) | [Open](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
-
-- **Authors**: Amey Thakur, Mega Satish & Hasan Rizvi
+   * [Project](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)
+   
+ - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
 
 </details>
+
+---
 
 <details>
 <summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong></summary>
 
-- [x] **Project Goal: To learn how to use Amazon Lex to build a chatbot on AWS.**
+- [x] **Project Goal**: To learn how to use Amazon Lex to build a chatbot on AWS.
 
-| Domain | Artifacts | Workspace |
-|:---|:---|:---:|
-| AI Architecture | [Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) &middot; [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) &middot; [DOI](https://doi.org/10.22214/ijraset.2022.40861) | [Open](ResearchGate/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/) |
+   * [Project](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex)
 
-- **Authors**: Amey Thakur & Mega Satish
+     *  [Published Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](https://doi.org/10.22214/ijraset.2022.40861)
+     *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
+
+- Authors: Amey Thakur & Mega Satish
 
 </details>
 
