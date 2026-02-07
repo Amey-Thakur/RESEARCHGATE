@@ -316,11 +316,12 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>QuadTree Visualizer</strong></summary>
+<summary><strong>QuadTree Visualizer</strong> &nbsp; <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Research_Interest-3.4-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Recommendations-10%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Reads-15%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.
 
    * [Project](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)
+     *  [Published Article](https://www.researchgate.net/publication/360242672_QuadTree_Visualizer) - [DOI](https://doi.org/10.17577/IJERTV11IS040156)
    
  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
 
