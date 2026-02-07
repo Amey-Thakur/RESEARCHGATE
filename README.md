@@ -161,7 +161,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Digital Bookstore</strong></summary>
 
-- [x] **Project Goal: A responsive website for Digital Bookstore management.**
+- [x] **Project Goal: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -174,7 +174,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>White-Box Cartoonization: GAN Framework</strong></summary>
 
-- [x] **Project Goal: Implementation of White-Box Cartoonization model using Tensorflow.js.**
+- [x] **Project Goal: An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -200,7 +200,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Text Summarizer Using Julia</strong></summary>
 
-- [x] **Project Goal: Implementation of web application for text and Wikipedia summarization.**
+- [x] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -213,7 +213,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Neuro-Fuzzy: ANN & Fuzzy Logic</strong></summary>
 
-- [x] **Project Goal: Understanding and implementing Neuro-Fuzzy systems.**
+- [x] **Project Goal: Understand Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -226,7 +226,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Fundamentals of Neural Networks</strong></summary>
 
-- [x] **Project Goal: Scholarly exposition on the foundational principles of Neural Networks.**
+- [x] **Project Goal: Understanding the concepts of neural networks and how to put them into practice.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -252,7 +252,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Optimizing Stock Trading with Reinforcement Learning</strong></summary>
 
-- [x] **Project Goal: Application of RL agents to maximize predictive accuracy in stock market dynamics.**
+- [x] **Project Goal: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -265,7 +265,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>QuadTree Visualizer</strong></summary>
 
-- [x] **Project Goal: Design and development of a QuadTree data model and visualizer.**
+- [x] **Project Goal - An application capable of presenting a view of quad tree. Design and development of quad tree view and data model.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
@@ -278,7 +278,7 @@ RESEARCHGATE/
 <details>
 <summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong></summary>
 
-- [x] **Project Goal: Integration of conversational AI via Amazon Lex on AWS infrastructure.**
+- [x] **Project Goal: To learn how to use Amazon Lex to build a chatbot on AWS.**
 
 | Domain | Artifacts | Workspace |
 |:---|:---|:---:|
