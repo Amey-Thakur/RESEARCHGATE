@@ -325,8 +325,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: The main emphasis and objective of our project is to analyse given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.
 
-   * [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://stock-trading-with-rl.herokuapp.com)
+   * [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://huggingface.co/spaces/ameythakur/Stock-Trading-RL)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)
      *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
 
  - Author: Amey Thakur
@@ -340,8 +341,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Text%20Summarizer%20Using%20Julia) | [Web Application](http://textssummarizer.herokuapp.com)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Text%20Summarizer%20Using%20Julia) | [Web Application](https://huggingface.co/spaces/ameythakur/text-summarizer)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/TEXT-SUMMARIZER)
      *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
      *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
 
