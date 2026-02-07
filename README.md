@@ -81,22 +81,6 @@ The archival model is governed by strict **computational design patterns** ensur
 
 ---
 
-<!-- FEATURES -->
-<a name="features"></a>
-## Features
-
-| Feature | Description |
-|---------|-------------|
-| **Multi-Language Logic** | Practical implementations in **Python**, **Java**, **PHP**, and **Julia**. |
-| **Applied AI Research** | Advanced models for **GANs**, **Reinforcement Learning**, and **Neural Networks**. |
-| **Database Architecture** | Robust schema designs for **Car Rental** and **Digital Bookstore** systems. |
-| **Real-time Interaction** | Interactive **Chat Rooms** and **Amazon Lex** chatbot implementations. |
-| **Scholarly Archival** | High-fidelity PDFs of **Published Articles** and **Technical Reports**. |
-| **Visual Validation** | Integrated **MP4 Demos** and high-resolution **Results Gallery**. |
-| **Citation Standards** | Formalized metadata using **CITATION.cff** and **codemeta.json**. |
-| **Structural Clarity** | Detailed codebase documentation following rigorous academic standards. |
-
----
 
 <!-- STRUCTURE -->
 <a name="project-structure"></a>
@@ -131,19 +115,6 @@ RESEARCHGATE/
 
 ---
 
-<a name="results"></a>
-## Results
-
-<div align="center">
-  <b>Research Branding: Scholarly Identity</b>
-  <br>
-  <i>Initial repository branding optimized for academic recognition.</i>
-  <br><br>
-  <img src="ResearchGate/ResearchGate.png" alt="ResearchGate Branding" width="90%">
-  <br><br><br>
-</div>
-
----
 
 <a name="project-catalog"></a>
 ## Project Catalog
