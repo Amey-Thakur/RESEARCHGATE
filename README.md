@@ -78,40 +78,52 @@ The archival model is governed by strict **computational design patterns** ensur
 
 ---
 
----
-
 <!-- LEARNING PATHWAYS -->
 <a name="learning-pathways"></a>
 ## Systematic Learning Pathways
 
 > [!TIP]
-> **Curriculum Roadmap**: This repository is structured as a **progressive computational curriculum**. Follow these engineered pathways to master specific domains, moving from **Theoretical Foundations** to **Production-Grade Implementation**.
+> **Curriculum Roadmap**: This repository is structured as a **progressive computational curriculum**. Follow these verified pathways to master specific domains, moving from **Theoretical Foundations** to **Production-Grade Implementation**.
 
-### 🧠 **Track A: Artificial Intelligence Architect**
-*Comprehensive **Machine Learning Roadmap**: Master the journey from **Neural Network** theory to deploying **GANs** and **NLP** models.*
+### 🧠 **Track A: The AI Researcher**
+*From Neural Foundations to Generative Deep Learning.*
 
 ```mermaid
 graph LR
-    A[Fundamentals of NN] -->|Theory| B[Bangalore Housing]
-    B -->|Regression| C[Stock Trading RL]
-    C -->|Optimization| D[Generative Adversarial Networks]
-    D -->|Deep Learning| E[White-Box Cartoonization]
+    A[Neural Networks] -->|Theory| B[Bangalore Housing]
+    B -->|Regression| C[Neuro-Fuzzy]
+    C -->|Hybrid Systems| D[GANs]
+    D -->|Generative| E[White-Box Cartoonization]
+    E -->|Vision| F[Stock Trading RL]
     
     style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style F fill:#dbf5ee,stroke:#004d40,stroke-width:2px,stroke-dasharray: 5 5
+```
+
+### 💻 **Track B: The Full-Stack System Engineer**
+*From Database Schemas to Cloud-Integrated Web Architecture.*
+
+```mermaid
+graph LR
+    A[Car Rental DB] -->|SQL| B[Digital Bookstore]
+    B -->|E-Commerce| C[Chat Room]
+    C -->|Async| D[Text Summarizer]
+    D -->|NLP| E[Pizza Chatbot AWS]
+    
+    style A fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
     style E fill:#dbf5ee,stroke:#004d40,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
-### 💻 **Track B: Full-Stack Web Engineer**
-*Complete **Web Development Tutorial**: Build **Database Schemas**, **PHP** architectures, and **Interactive Applets**.*
+### 🧩 **Track C: Algorithmic Logic & Visualization**
+*Mastering Data Structures and Interactive Reasoning.*
 
 ```mermaid
 graph LR
-    A[Car Rental DB] -->|SQL Schema| B[Digital Bookstore]
-    B -->|PHP & Auth| C[Chat Room System]
-    C -->|AJAX & Async| D[Text Summarizer Web App]
-    
-    style A fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style D fill:#dbf5ee,stroke:#004d40,stroke-width:2px,stroke-dasharray: 5 5
+    A[Hangman Game] -->|Java Applets| B[QuadTree Visualizer]
+    B -->|Spatial Data| C[Computational Logic]
+
+    style A fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style C fill:#fff8e1,stroke:#fbc02d,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
 ---
