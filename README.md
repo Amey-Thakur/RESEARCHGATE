@@ -1,7 +1,7 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  # ResearchGate
+  <img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle"> ResearchGate
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -10,7 +10,7 @@
 
   An authoritative technical companion and scholarly archival mirror designed to synchronize functional implementations with research artifacts shared on the **ResearchGate** platform.
 
-  **[Source Code](ResearchGate/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; <img src="docs/RG_square_green.jpg" width="22" height="22" valign="bottom"> **[ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)**
+  **[Source Code](ResearchGate/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)**
 
 </div>
 
