@@ -378,7 +378,7 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)
 
-This project features **ResearchGate**, a curated scholarly archival system. While established as a structural initiative for **Academic Engineering**, this repository stands as a testament to **collective intellectual contribution**. The projects archived herein are the result of a rigorous collaborative synergy, where the indispensable expertise of every lab member was fundamental to the realization of these research outcomes.
+This repository serves as a deterministic technical mirror for the **ResearchGate** platform, designed to archive high-fidelity engineering implementations. While established as a structural initiative for **Academic Engineering**, this repository stands as a testament to **collective intellectual contribution**. The projects archived herein are the result of a rigorous collaborative synergy, where the indispensable expertise of every lab member was fundamental to the realization of these research outcomes.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
