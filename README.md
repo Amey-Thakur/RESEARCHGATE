@@ -175,8 +175,6 @@ RESEARCHGATE/
 
 </details>
 
----
-
 <details>
 <summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong></summary>
 
@@ -278,8 +276,6 @@ RESEARCHGATE/
  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
 
 </details>
-
----
 
 <details>
 <summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong></summary>
