@@ -55,8 +55,14 @@
   *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
 
   **Lab Members**
-  <br>
-  [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) &nbsp;·&nbsp; [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) &nbsp;·&nbsp; [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3) &nbsp;·&nbsp; [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8) &nbsp;·&nbsp; [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar) &nbsp;·&nbsp; [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde) &nbsp;·&nbsp; [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
+
+  - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur)
+  - [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish)
+  - [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3)
+  - [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8)
+  - [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar)
+  - [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde)
+  - [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
 
 </div>
 
