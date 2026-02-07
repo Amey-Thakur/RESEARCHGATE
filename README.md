@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -40,6 +40,24 @@
   - [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) &nbsp;·&nbsp; [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) &nbsp;·&nbsp; [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3) &nbsp;·&nbsp; [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8) &nbsp;·&nbsp; [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar) &nbsp;·&nbsp; [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde) &nbsp;·&nbsp; [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
 
 </div>
+
+---
+
+<!-- RESEARCH LAB -->
+<a name="research-lab"></a>
+## Research Lab
+
+<div align="center">
+
+  [![Research Lab](https://img.shields.io/badge/Research-Lab-blue.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
+  <br>
+  ### **[Amey Thakur Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
+  *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
+
+</div>
+
+> [!NOTE]
+> This repository serves as a deterministic technical archival mirror for the **[Amey Thakur Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**. It synchronizes functional technical implementations with the scholarly research artifacts shared across the global ResearchGate network.
 
 ---
 
@@ -355,7 +373,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
