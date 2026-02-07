@@ -85,7 +85,7 @@ The archival model is governed by strict **computational design patterns** ensur
 > [!TIP]
 > **Curriculum Roadmap**: This repository is structured as a **progressive computational curriculum**. Follow these verified pathways to master specific domains, moving from **Theoretical Foundations** to **Production-Grade Implementation**.
 
-### 🧠 **Track A: The AI Researcher**
+### **Track A: The AI Researcher**
 *From Neural Foundations to Generative Deep Learning.*
 
 ```mermaid
@@ -100,7 +100,7 @@ graph LR
     style F fill:#dbf5ee,stroke:#004d40,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
-### 💻 **Track B: The Full-Stack System Engineer**
+### **Track B: The Full-Stack System Engineer**
 *From Database Schemas to Cloud-Integrated Web Architecture.*
 
 ```mermaid
@@ -114,7 +114,7 @@ graph LR
     style E fill:#dbf5ee,stroke:#004d40,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
-### 🧩 **Track C: Algorithmic Logic & Visualization**
+### **Track C: Algorithmic Logic & Visualization**
 *Mastering Data Structures and Interactive Reasoning.*
 
 ```mermaid
