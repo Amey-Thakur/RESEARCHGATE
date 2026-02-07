@@ -175,9 +175,7 @@ RESEARCHGATE/
 > Click on each section below to expand and view the curated research projects with direct access to technical documentation and scholarly articles.
 
 <details>
-<summary><strong>Hangman Word Game</strong><br>
-
-<a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Research_Interest-4.3-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Hangman Word Game</strong><br><a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Research_Interest-4.3-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354322708_Hangman_Word_Game"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
 
 - [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
@@ -191,9 +189,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong><br>
-
-<a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Citations-20%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong><br><a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Citations-20%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX"><img src="https://img.shields.io/badge/Reads-5000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -211,9 +207,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Car Rental Database System</strong><br>
-
-<a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-50%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-300%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Car Rental Database System</strong><br><a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Citations-50%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Research_Interest-137.8-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353174644_Car_Rental_System"><img src="https://img.shields.io/badge/Reads-300%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -228,9 +222,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Digital Bookstore</strong><br>
-
-<a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Research_Interest-20.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Reads-50%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Digital Bookstore</strong><br><a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Research_Interest-20.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353332514_Digital_Bookstore"><img src="https://img.shields.io/badge/Reads-50%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -245,9 +237,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong><br>
-
-<a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>White-Box Cartoonization Using An Extended GAN Framework</strong><br><a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Recommendations-25%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_using_an_Extended_GAN_Framework"><img src="https://img.shields.io/badge/Reads-1000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -266,9 +256,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Bangalore House Price Prediction</strong><br>
-
-<a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Research_Interest-34.6-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Reads-40%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Bangalore House Price Prediction</strong><br><a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Citations-10%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Research_Interest-34.6-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION"><img src="https://img.shields.io/badge/Reads-40%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -284,9 +272,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Fundamentals of Neural Networks</strong><br>
-
-<a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Citations-250%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Research_Interest-212.7-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Reads-675%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Fundamentals of Neural Networks</strong><br><a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Citations-250%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Research_Interest-212.7-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks"><img src="https://img.shields.io/badge/Reads-675%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -309,9 +295,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong><br>
-
-<a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Research_Interest-23.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Reads-10%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic</strong><br><a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Citations-15%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Research_Interest-23.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Recommendations-30%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic"><img src="https://img.shields.io/badge/Reads-10%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -325,9 +309,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong><br>
-
-<a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Recommendations-15%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Reads-5%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Optimizing Stock Trading Strategy With Reinforcement Learning</strong><br><a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Research_Interest-8.0-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Recommendations-15%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning"><img src="https://img.shields.io/badge/Reads-5%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -342,9 +324,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Text Summarizer</strong><br>
-
-<a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Citations-5%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Reads-20%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Text Summarizer</strong><br><a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Citations-5%2B-blueviolet" alt="Citations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Research_Interest-9.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia"><img src="https://img.shields.io/badge/Reads-20%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -360,9 +340,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>QuadTree Visualizer</strong><br>
-
-<a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Research_Interest-3.4-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Recommendations-10%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Reads-15%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>QuadTree Visualizer</strong><br><a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Research_Interest-3.4-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Recommendations-10%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/360242672_QuadTree_Visualizer"><img src="https://img.shields.io/badge/Reads-15%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
@@ -376,9 +354,7 @@ RESEARCHGATE/
 </details>
 
 <details>
-<summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong><br>
-
-<a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Research_Interest-8.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Reads-25%2C000%2B-00CCBB" alt="Reads"></a></summary>
+<summary><strong>Pizza Ordering Chatbot Using Amazon Lex</strong><br><a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Research_Interest-8.5-00CCBB" alt="Research Interest"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Recommendations-20%2B-00CCBB" alt="Recommendations"></a> <a href="https://www.researchgate.net/publication/359112952_Pizza_Ordering_Chatbot_Using_Amazon_Lex"><img src="https://img.shields.io/badge/Reads-25%2C000%2B-00CCBB" alt="Reads"></a></summary>
 
 
 
