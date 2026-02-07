@@ -231,8 +231,9 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
 
-   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Digital%20Bookstore)
+   * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Digital%20Bookstore) | [Web Application](https://amey-thakur.github.io/DIGITAL-BOOKSTORE/)
 
+     *  [GitHub Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
      *  [Published Article](https://www.researchgate.net/publication/353332514_Digital_Bookstore) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36609)
 
  - Authors: Amey Thakur & Mega Satish
