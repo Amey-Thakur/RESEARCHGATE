@@ -1,228 +1,313 @@
-# ResearchGate
+<div align="center">
 
-  [![ResearchGate](https://user-images.githubusercontent.com/54937357/126514422-ba0e7de1-cbc2-4186-94d9-39e8a22c1c78.png)](https://www.researchgate.net/profile/Amey-Thakur)
+  <a name="readme-top"></a>
+  # ResearchGate
 
----
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  [![Technology](https://img.shields.io/badge/Technology-Multi--Language-blueviolet.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
+  [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
 
- >**AUTHORS | [Research Lab](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
+  A curated collection of scholarly articles, technical reports, and project implementations, engineered for academic archival and reference in the fields of Computer Science and Engineering.
 
- - **[Amey Thakur](https://www.researchgate.net/profile/Amey-Thakur) | ORCID - [https://orcid.org/0000-0001-5644-1575](https://orcid.org/0000-0001-5644-1575)**
- 
- - **[Mega Satish](https://www.researchgate.net/profile/Mega-Satish) | ORCID - [https://orcid.org/0000-0002-1844-9557](https://orcid.org/0000-0002-1844-9557)**
- 
- - **[Karan Dhiman](https://www.researchgate.net/profile/Karan-Dhiman-3)**
- 
- - **[Hasan Rizvi](https://www.researchgate.net/profile/Hasan-Rizvi-8)**
- 
- - **[Mayuresh Phansikar](https://www.researchgate.net/profile/Mayuresh-Phansikar)**
- 
- - **[Archit Konde](https://www.researchgate.net/profile/Archit-Konde)**
- 
- - **[Saakshi Deokar](https://www.researchgate.net/profile/Saakshi-Deokar)**
+  **[Source Code](ResearchGate/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)**
+
+</div>
 
 ---
 
- >**PROJECTS**
+<div align="center">
 
- - **[Hangman Word Game](https://github.com/Amey-Thakur/RESEARCHGATE#hangman-word-game)**
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
- - **[Chat Room using HTML, PHP, CSS, JS, AJAX](https://github.com/Amey-Thakur/RESEARCHGATE#chat-room-using-html-php-css-js-ajax)**
- 
- - **[Car Rental Database System](https://github.com/Amey-Thakur/RESEARCHGATE#car-rental-database-system)**
- 
- - **[Digital Bookstore](https://github.com/Amey-Thakur/RESEARCHGATE#digital-bookstore)**
-
- - **[White-Box Cartoonization Using An Extended GAN Framework](https://github.com/Amey-Thakur/RESEARCHGATE#white-box-cartoonization-using-an-extended-gan-framework)**
- 
- - **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/RESEARCHGATE#bangalore-house-price-prediction)**
-
- - **[Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#neural-networks)**
- 
-    - **[Fundamentals of Neural Networks](https://github.com/Amey-Thakur/RESEARCHGATE#fundamentals-of-neural-networks)**
-    
-    - **[Generative Adversarial Networks](https://github.com/Amey-Thakur/RESEARCHGATE#generative-adversarial-networks)**
-
- - **[Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://github.com/Amey-Thakur/RESEARCHGATE#neuro-fuzzy-artificial-neural-networks--fuzzy-logic)**
- 
- - **[Optimizing Stock Trading Strategy With Reinforcement Learning](https://github.com/Amey-Thakur/RESEARCHGATE#optimizing-stock-trading-strategy-with-reinforcement-learning)**
-
- - **[Text Summarizer](https://github.com/Amey-Thakur/RESEARCHGATE#text-summarizer)**
- 
- - **[QuadTree Visualizer](https://github.com/Amey-Thakur/RESEARCHGATE#quadtree-visualizer)**
- 
- - **[Pizza Ordering Chatbot Using Amazon Lex](https://github.com/Amey-Thakur/RESEARCHGATE#pizza-ordering-chatbot-using-amazon-lex)**
+</div>
 
 ---
 
-## Hangman Word Game
+<!-- AUTHORS -->
+<div align="center">
 
- - [X] **Project Goal: Hangman Word Game using Applet in Java.**
+  <a name="authors"></a>
+  ## Authors
 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FHANGMAN-WORD-GAME)
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega Satish ORCID.pdf" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| :---: | :---: |
 
-     *  [Presentation](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) - [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082)
-     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4?context=ProjectUpdatesLog)
+</div>
 
- - Authors: Amey Thakur, Mega Satish & Saakshi Deokar
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
+---
 
+<!-- OVERVIEW -->
+<a name="overview"></a>
+## Overview
 
-## Chat Room using HTML, PHP, CSS, JS, AJAX
+**ResearchGate** is a scholarly archival architecture engineered to preserve and showcase a diverse range of technical research projects. By bridging the gap between theoretical system design and functional implementations, this repository provides a foundational study into **Machine Learning**, **General Purpose Computation**, and **Applied Software Engineering**.
 
- - [X] **Project Goal: Web-Based Chat Application using PHP, MySQL, JS, AJAX.**
- 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FCHAT-ROOM)
-     
-     *  [Published Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.6084/M9.FIGSHARE.14869167)
-     *  [Preprint](https://www.researchgate.net/publication/353063550_Chat_Room_Using_HTML_PHP_CSS_JS_AJAX)
-     *  [Presentation](https://www.researchgate.net/publication/353588043_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.16257.38248)
-     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Chat-Room-using-HTML-PHP-CSS-JS-AJAX/attachment/6118a1b52897145fbd691ee6/AS:1056934430007296@1629004213319/download/Chat+Room.mp4?context=ProjectUpdatesLog)
+The application serves as a digital exploration of complex algorithms and modern development frameworks, enabling high-performance research archival directly within a version-controlled environment.
 
- - Authors: Amey Thakur & Karan Dhiman
+### Scholarly Precision Pillars
+The archival model is governed by strict **computational design patterns** ensuring fidelity and clarity:
+*   **Archival Integrity**: Systematic documentation of technical reports, preprints, and peer-reviewed articles.
+*   **Multi-Domain Synthesis**: Integration of varied research fields including Neural Networks, NLP, and Financial Optimization.
+*   **Verification Standards**: Every project goal is coupled with functional code, demos, and scholarly artifacts for zero-latency proof.
 
+> [!TIP]
+> **Scholarly Precision Integration**
+>
+> To maximize academic value, the repository employs a **Formal Archival Strategy**. Each project contains its own **Technical Reports** and **Demos**, strictly coupling implementation results with peer-reviewed validation. This ensures that the research remains accessible and provides a high-fidelity reference for the engineering community.
 
+---
 
-## Car Rental Database System
+<!-- FEATURES -->
+<a name="features"></a>
+## Features
 
- - [X] **Project Goal: Create a simple Car Rental Database Management System.**
+| Feature | Description |
+|---------|-------------|
+| **Multi-Language Logic** | Practical implementations in **Python**, **Java**, **PHP**, and **Julia**. |
+| **Applied AI Research** | Advanced models for **GANs**, **Reinforcement Learning**, and **Neural Networks**. |
+| **Database Architecture** | Robust schema designs for **Car Rental** and **Digital Bookstore** systems. |
+| **Real-time Interaction** | Interactive **Chat Rooms** and **Amazon Lex** chatbot implementations. |
+| **Scholarly Archival** | High-fidelity PDFs of **Published Articles** and **Technical Reports**. |
+| **Visual Validation** | Integrated **MP4 Demos** and high-resolution **Results Gallery**. |
+| **Citation Standards** | Formalized metadata using **CITATION.cff** and **codemeta.json**. |
+| **Structural Clarity** | Detailed codebase documentation following rigorous academic standards. |
 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FCAR-RENTAL-SYSTEM)
+> [!NOTE]
+> ### The Research Corridor
+> We have engineered a **Scholarly-Driven Archival Manager** that calibrates research artifacts across multiple vectors. The visual language focuses on transparency and peer-review readiness, ensuring maximum focus on the research trajectory.
 
-     *  [Published Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339)
+### Tech Stack
+- **Languages**: Python, Java, PHP, JavaScript, Julia, SQL
+- **Models**: GANs, Reinforcement Learning, Neural Networks
+- **Web**: HTML5, CSS3, AJAX, Amazon Lex
+- **Archival**: DOI Mapping, PDF Publication, MP4 Documentation
+- **Metadata**: CFF v1.2.0, Codemeta 2.0
+- **License**: CC BY 4.0 (Creative Commons)
 
- - Author: Amey Thakur
+---
 
+<!-- STRUCTURE -->
+<a name="project-structure"></a>
+## Project Structure
 
+```python
+RESEARCHGATE/
+│
+├── docs/                            # Project Documentation
+│   └── SPECIFICATION.md             # Technical Architecture
+│
+├── ResearchGate/                    # Primary Engineering Layer
+│   ├── Bangalore House Price Prediction/
+│   ├── CHAT ROOM/
+│   ├── Car Rental Database System/
+│   ├── Digital Bookstore/
+│   ├── ...                          # 10+ Research Modules
+│   └── ResearchGate.png             # Branding Asset
+│
+├── CITATION.cff                     # Project Citation Manifest
+├── codemeta.json                    # Metadata Standard
+├── LICENSE                          # CC BY 4.0 License
+├── SECURITY.md                      # Security Protocols
+└── README.md                        # Project Entrance
+```
 
-## Digital Bookstore
+---
 
- - [X] **Project Goal: A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.**
+<a name="results"></a>
+## Results
 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FDIGITAL-BOOKSTORE)
+<div align="center">
+  <b>Research Branding: Scholarly Identity</b>
+  <br>
+  <i>Initial repository branding optimized for academic recognition.</i>
+  <br><br>
+  <img src="ResearchGate/ResearchGate.png" alt="ResearchGate Branding" width="90%">
+  <br><br><br>
+</div>
 
-     *  [Published Article](https://www.researchgate.net/publication/353332514_Digital_Bookstore) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.36609)
+---
 
- - Authors: Amey Thakur & Mega Satish
+<a name="project-catalog"></a>
+## Project Catalog
 
+> [!IMPORTANT]
+> Click on each section below to expand and view the curated research projects with direct access to technical documentation and scholarly articles.
 
+<details>
+<summary><strong>Hangman Word Game</strong></summary>
 
-## White-Box Cartoonization Using An Extended GAN Framework
+- [x] **Project Goal: Hangman Word Game using Applet in Java.**
 
- - [X] **Project Goal: An implementation of the White-Box Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.**
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Interactive Logic | [Article](https://www.researchgate.net/publication/354322708_Hangman_Word_Game) &middot; [DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082) &middot; [Demo](https://www.researchgate.net/profile/Amey-Thakur/project/Hangman-Word-Game/attachment/6131017d647f3906fc9589bf/AS:1063634344091648@1630601597251/download/Applet.mp4) | [Open](ResearchGate/Hangman%20Word%20Game/) |
 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FWHITE-BOX-CARTOONIZATION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Famey-thakur.github.io%2FWHITE-BOX-CARTOONIZATION)
-     *  [Published Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) - [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
-     *  [Preprint](https://www.researchgate.net/publication/353171089_White-Box_Cartoonization_Using_An_Extended_GAN_Framework)
-     *  [Presentation](https://www.researchgate.net/publication/353572017_WHITE-BOX_CARTOONIZATION_USING_AN_EXTENDED_GAN_FRAMEWORK) - [DOI](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
-     *  [Project Demo](https://www.researchgate.net/profile/Amey-Thakur/project/White-Box-Cartoonization-Using-An-Extended-GAN-Framework/attachment/6118a3ab181c2e4f4a8088dc/AS:1056936531349506@1629004714821/download/White-Box+Cartoonization+Working+Model.mp4?context=ProjectUpdatesLog)
-     *  [JOEY DOESN'T SHARE FOOD!! [Original vs Cartoonized]](https://www.researchgate.net/profile/Amey-Thakur/project/White-Box-Cartoonization-Using-An-Extended-GAN-Framework/attachment/6118a3ab2897145fbd691f1d/AS:1056936535527425@1629004715842/download/JOEY+DOESN%27T+SHARE+FOOD%21%21+%5BOriginal+vs+Cartoonized%5D.mp4?context=ProjectUpdatesLog)
+- **Authors**: Amey Thakur, Mega Satish & Saakshi Deokar
 
- - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
+</details>
 
+<details>
+<summary><strong>Chat Room using HTML, PHP, CSS, JS, AJAX</strong></summary>
 
+- [x] **Project Goal: Web-Based Chat Application using PHP, MySQL, JS, AJAX.**
 
-## Bangalore House Price Prediction
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Web Engineering | [Article](https://www.researchgate.net/publication/352798946_CHAT_ROOM_USING_HTML_PHP_CSS_JS_AJAX) &middot; [DOI](http://dx.doi.org/10.6084/M9.FIGSHARE.14869167) &middot; [Demo](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/ChatRoom.mp4) | [Open](ResearchGate/CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX/) |
 
- - [X] **Project Goal: Machine Learning Project to Predict House Prices in Bangalore.**
+- **Authors**: Amey Thakur & Karan Dhiman
 
-   * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FBANGALORE-HOUSE-PRICE-PREDICTION) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fbangalorehousepriceprediction.herokuapp.com)
+</details>
 
-     *  [Published Article](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION)
-     *  [Prediction Model](https://www.researchgate.net/profile/Amey-Thakur/project/Bangalore-House-Price-Prediction/attachment/613733e02897145fbd6f0f35/AS:1065337713876992@1631007712044/download/bangalore-house-price-prediction-model.ipynb?context=ProjectUpdatesLog)
+<details>
+<summary><strong>Car Rental Database System</strong></summary>
 
- - Authors: Amey Thakur & Mega Satish
+- [x] **Project Goal: Create a simple Car Rental Database Management System.**
 
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Data Systems | [Article](https://www.researchgate.net/publication/353174644_Car_Rental_System) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.36339) | [Open](ResearchGate/Car%20Rental%20Database%20System/) |
 
+- **Author**: Amey Thakur
 
-## Neural Networks
+</details>
 
- - [X] **Project Goal: Understanding the concepts of neural networks and how to put them into practice.**
+<details>
+<summary><strong>Digital Bookstore</strong></summary>
 
+- [x] **Project Goal: A responsive website for Digital Bookstore management.**
 
- ### Fundamentals of Neural Networks
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Web Engineering | [Article](https://www.researchgate.net/publication/353332514_Digital_Bookstore) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.36609) | [Open](ResearchGate/Digital%20Bookstore/) |
 
-   - [Published Article](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37362)
+- **Authors**: Amey Thakur & Mega Satish
 
- - Authors: Amey Thakur & Archit Konde
+</details>
 
+<details>
+<summary><strong>White-Box Cartoonization: GAN Framework</strong></summary>
 
- ### Generative Adversarial Networks
+- [x] **Project Goal: Implementation of White-Box Cartoonization model using Tensorflow.js.**
 
-   - [Published Article](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37723)
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Research | [Article](https://www.researchgate.net/publication/353129069_White-Box_Cartoonization_Using_An_Extended_GAN_Framework) &middot; [DOI](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049) &middot; [Demo](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/White-BoxCartoonizationWorkingModel.mp4) | [Open](ResearchGate/White-Box%20Cartoonization%20Using%20An%20Extended%20GAN%20Framework/) |
 
- - Authors: Amey Thakur & Mega Satish
+- **Authors**: Amey Thakur, Mega Satish & Hasan Rizvi
 
+</details>
 
+<details>
+<summary><strong>Bangalore House Price Prediction</strong></summary>
 
-## Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
- 
- - [x] **Project Goal: Understanding Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.**
- 
-   *  [Published Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) - [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930)
-   *  [Presentation](https://www.researchgate.net/publication/355466989_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic_Presentation) - [DOI](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
- 
- - Authors: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
- 
- 
- 
- ## Optimizing Stock Trading Strategy With Reinforcement Learning
- 
-  - [X] **Project Goal: The main emphasis and objective of our project is to analyze given raw data and do exploratory data analysis in order to fully comprehend and identify patterns. Then, using a Neural Network approach, construct a model and train it to get the desired outcomes. Finally, it will be deployed as a web application.**
- 
-    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FOPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://www.researchgate.net/deref/https%3A%2F%2Fstock-trading-with-rl.herokuapp.com)
- 
-      *  [Technical Report](https://www.researchgate.net/publication/358141909_Optimizing_Stock_Trading_Strategy_With_Reinforcement_Learning) - [DOI](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
- 
-  - Author: Amey Thakur
- 
- 
- 
- ## Text Summarizer
- 
-  - [X] **Project Goal: In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.**
- 
-    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FTEXT-SUMMARIZER) | [Web Application](https://www.researchgate.net/deref/http%3A%2F%2Ftextssummarizer.herokuapp.com)
- 
-      *  [Published Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) - [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066)
-      *  [Presentation](https://www.researchgate.net/publication/357152089_TEXT_SUMMARIZER) - [DOI](http://dx.doi.org/10.13140/RG.2.2.17259.67360)
- 
-  - Authors: Amey Thakur & Mega Satish
- 
- 
- 
- ## QuadTree Visualizer
- 
-  - [X] **Project Goal - An application capable of presenting a view of QuadTree. Design and development of quad tree view and data model.**
- 
-    * [Project](https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2FAmey-Thakur%2FQUADTREE-VISUALIZER)
-    
-  - Authors: Amey Thakur, Mega Satish & Hasan Rizvi
- 
- 
- 
- ## Pizza Ordering Chatbot Using Amazon Lex
- 
-  - [X] **Project Goal: To learn how to use Amazon Lex to build a chatbot on AWS.**
- 
-    * [Project](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex)
- 
-      *  [Published Article](https://www.researchgate.net/publication/359517449_Pizza_Ordering_Chatbot_Using_Amazon_Lex) - [DOI](https://doi.org/10.22214/ijraset.2022.40861)
-      *  [Presentation](https://www.researchgate.net/publication/359327179_PIZZA_ORDERING_CHATBOT_USING_AMAZON_LEX) - [DOI](http://dx.doi.org/10.13140/RG.2.2.19606.01607)
- 
- - Authors: Amey Thakur & Mega Satish
- 
- ---
- 
- ## License
- 
- This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
- 
- **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
- 
- Copyright © 2022 Amey Thakur & Mega Satish
- 
- ---
- 
- <p align="center"><a href='https://www.researchgate.net/profile/Amey-Thakur' style='color: greenyellow;'> <b> 👉🏻 ResearchGate 👈🏻 </b> </p>
-  
- <p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a> </p>
+- [x] **Project Goal: Machine Learning Project to Predict House Prices in Bangalore.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| Machine Learning | [Article](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION) &middot; [Notebook](ResearchGate/Bangalore%20House%20Price%20Prediction/bangalore-house-price-prediction-model.ipynb) | [Open](ResearchGate/Bangalore%20House%20Price%20Prediction/) |
+
+- **Authors**: Amey Thakur & Mega Satish
+
+</details>
+
+<details>
+<summary><strong>Text Summarizer Using Julia</strong></summary>
+
+- [x] **Project Goal: Implementation of web application for text and Wikipedia summarization.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| NLP Research | [Article](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2022.40066) | [Open](ResearchGate/Text%20Summarizer%20Using%20Julia/) |
+
+- **Authors**: Amey Thakur & Mega Satish
+
+</details>
+
+<details>
+<summary><strong>Neuro-Fuzzy: ANN & Fuzzy Logic</strong></summary>
+
+- [x] **Project Goal: Understanding and implementing Neuro-Fuzzy systems.**
+
+| Domain | Artifacts | Workspace |
+|:---|:---|:---:|
+| AI Systems | [Article](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) &middot; [DOI](http://dx.doi.org/10.22214/ijraset.2021.37930) | [Open](ResearchGate/Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20&%20Fuzzy%20Logic/) |
+
+- **Authors**: Amey Thakur, Karan Dhiman & Mayuresh Phansikar
+
+</details>
+
+---
+
+<!-- USAGE GUIDELINES -->
+<a name="usage-guidelines"></a>
+## Usage Guidelines
+
+This repository is shared to support scholarly exchange and research archival.
+
+**For Students**  
+Use this project as reference material for understanding **Applied Machine Learning**, **Database Systems**, and **Web Architecture**. The documentation facilitate self-paced learning and exploration of **academic software engineering**.
+
+**For Educators**  
+This project may serve as a practical lab example or supplementary teaching resource for **AI**, **Web Engineering**, and **Data Science** courses.
+
+**For Researchers**  
+The documentation and architectural approach may provide insights into **systematic project archival**, **DOI integration**, and **scholarly metadata standards**.
+
+---
+
+<!-- LICENSE -->
+<a name="license"></a>
+## License
+
+This repository and all its creative and technical assets are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
+
+Copyright © 2022 Amey Thakur & Mega Satish
+
+---
+
+<!-- ABOUT -->
+<a name="about-this-repository"></a>
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
+
+This project features **ResearchGate**, a curated scholarly archival system. It represents a personal exploration into **Academic Engineering** and high-fidelity research documentation.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and partnership during the development of these projects. Her constant support, technical clarity, and dedication to software quality were instrumental in achieving the system's functional objectives. Learning alongside her was a transformative experience; her thoughtful approach to problem-solving and steady encouragement turned complex requirements into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side journey. Thank you, Mega, for everything you shared and taught along the way.
+
+Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<div align="center">
+
+  [↑ Back to Top](#readme-top)
+
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+  <br>
+
+  👉🏻 **[ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)**
+
+  ---
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
