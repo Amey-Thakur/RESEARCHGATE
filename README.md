@@ -173,7 +173,7 @@ RESEARCHGATE/
 
 - [x] **Project Goal**: Hangman Word Game using Applet in Java.
 
-  ![Research Interest](https://img.shields.io/badge/Research_Interest-4.3-00CCBB) &nbsp; ![Recommendations](https://img.shields.io/badge/Recommendations-13-00CCBB) &nbsp; ![Reads](https://img.shields.io/badge/Reads-830%2B-00CCBB)
+  ![Research Interest](https://img.shields.io/badge/Research_Interest-4.3-00CCBB) &nbsp; ![Recommendations](https://img.shields.io/badge/Recommendations-13-00CCBB) &nbsp; ![Reads](https://img.shields.io/badge/Reads-1000%2B-00CCBB)
 
    * [Project](https://github.com/Amey-Thakur/RESEARCHGATE/tree/main/ResearchGate/Hangman%20Word%20Game)
 
