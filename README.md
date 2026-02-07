@@ -39,19 +39,17 @@
 
   <br>
 
-  **Principal Researchers**
-  <br>
-  [**Amey Thakur**](https://www.researchgate.net/profile/Amey-Thakur) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575)
-  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-  [**Mega Satish**](https://www.researchgate.net/profile/Mega-Satish) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557)
+  **Research Contributors**
 
-  <br>
-
-  **Collaborating Members**
-  <br>
-  [**Karan Dhiman**](https://www.researchgate.net/profile/Karan-Dhiman-3) &nbsp;·&nbsp; [**Hasan Rizvi**](https://www.researchgate.net/profile/Hasan-Rizvi-8) &nbsp;·&nbsp; [**Mayuresh Phansikar**](https://www.researchgate.net/profile/Mayuresh-Phansikar)
-  <br>
-  [**Archit Konde**](https://www.researchgate.net/profile/Archit-Konde) &nbsp;·&nbsp; [**Saakshi Deokar**](https://www.researchgate.net/profile/Saakshi-Deokar)
+| Contributor | Role | Profile & ORCID |
+|:---|:---:|:---:|
+| **Amey Thakur** | Principal Investigator | [Profile](https://www.researchgate.net/profile/Amey-Thakur) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
+| **Mega Satish** | Principal Researcher | [Profile](https://www.researchgate.net/profile/Mega-Satish) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| **Karan Dhiman** | Collaborator | [Profile](https://www.researchgate.net/profile/Karan-Dhiman-3) |
+| **Hasan Rizvi** | Collaborator | [Profile](https://www.researchgate.net/profile/Hasan-Rizvi-8) |
+| **Mayuresh Phansikar** | Collaborator | [Profile](https://www.researchgate.net/profile/Mayuresh-Phansikar) |
+| **Archit Konde** | Collaborator | [Profile](https://www.researchgate.net/profile/Archit-Konde) |
+| **Saakshi Deokar** | Collaborator | [Profile](https://www.researchgate.net/profile/Saakshi-Deokar) |
 
 </div>
 
