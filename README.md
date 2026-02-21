@@ -171,7 +171,7 @@ RESEARCHGATE/
 <a name="project-catalog"></a>
 ## Project Catalog
 
-> [!IMPORTANT]
+> [!NOTE]
 > Click on each section below to expand and view the curated research projects with direct access to technical documentation and scholarly articles.
 
 <details>
@@ -410,6 +410,11 @@ RESEARCHGATE/
 - Authors: Amey Thakur & Mega Satish
 
 </details>
+
+> [!IMPORTANT]
+> **Scholarly Integrity & Technical Validation**
+>
+> All artifacts archived in this catalog are strictly synchronized with published research. For verified academic references, please consult the provided **DOI (Digital Object Identifier)** links or the technical preprints located within the project corridors. Execution integrity for backend modules is documented through high-fidelity synthetic logic traces and scholarly attachment logs.
 
 ---
 
