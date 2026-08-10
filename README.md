@@ -1,18 +1,17 @@
 <div align="center">
 
-  <a name="readme-top"></a>
   # [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
 
-  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Citations-500%2B-blueviolet" alt="Total Citations"></a>
+  <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Citations-500%2B-00CCBB" alt="Total Citations"></a>
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Recommendations-250%2B-00CCBB" alt="Total Recommendations"></a>
   <a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="https://img.shields.io/badge/Total_Reads-2.1M%2B-00CCBB" alt="Total Reads"></a>
 
   <br>
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Multi--Language-orange.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
-  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  [![Technology](https://img.shields.io/badge/Technology-Multi--Language-8250DF.svg)](https://github.com/Amey-Thakur/RESEARCHGATE)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   An authoritative technical companion and scholarly archival mirror designed to synchronize functional implementations with research artifacts shared on the **ResearchGate** platform.
 
@@ -37,7 +36,7 @@
 
 <div align="center">
 
-  [![Research Lab](https://img.shields.io/badge/Research-Lab-blue.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
+  [![Research Lab](https://img.shields.io/badge/Research-Lab-BF3989.svg)](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)
 
   ### **[Research Lab - Amey Thakur](https://www.researchgate.net/lab/Amey-Thakur-Lab-4)**
   *Focusing on Artificial Intelligence, Web Engineering, and Computational Design.*
@@ -46,8 +45,8 @@
 
 | Contributor | Role | Profile & ORCID |
 |:---|:---:|:---:|
-| **Amey Thakur** | Principal Investigator | [Profile](https://www.researchgate.net/profile/Amey-Thakur) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
-| **Mega Satish** | Principal Researcher | [Profile](https://www.researchgate.net/profile/Mega-Satish) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| **Amey Thakur** | Principal Investigator | [Profile](https://www.researchgate.net/profile/Amey-Thakur) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) |
+| **Mega Satish** | Principal Researcher | [Profile](https://www.researchgate.net/profile/Mega-Satish) &middot; [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | **Karan Dhiman** | Collaborator | [Profile](https://www.researchgate.net/profile/Karan-Dhiman-3) |
 | **Hasan Rizvi** | Collaborator | [Profile](https://www.researchgate.net/profile/Hasan-Rizvi-8) |
 | **Mayuresh Phansikar** | Collaborator | [Profile](https://www.researchgate.net/profile/Mayuresh-Phansikar) |
@@ -478,7 +477,7 @@ This repository serves as a deterministic technical mirror for the **ResearchGat
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#-researchgate)
 
   [Research Lab](#research-lab) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Pathways](#learning-pathways) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project Catalog](#project-catalog) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
@@ -495,3 +494,4 @@ This repository serves as a deterministic technical mirror for the **ResearchGat
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
