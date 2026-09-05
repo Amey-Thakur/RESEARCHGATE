@@ -28,8 +28,10 @@
             "id": "https://orcid.org/0000-0002-1844-9557"
         }
     ],
+    "dateCreated": "2022-03-05",
     "dateReleased": "2022-03-05",
     "codeRepository": "https://github.com/Amey-Thakur/RESEARCHGATE",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "applicationCategory": "Education / Research / Scholarly Publications",
     "keywords": [
@@ -40,6 +42,40 @@
         "Computer Science",
         "Engineering",
         "Artificial Intelligence",
-        "Reinforcement Learning"
-    ]
+        "Reinforcement Learning",
+        "Authors",
+        "Computer Engineering",
+        "Data Science",
+        "GANs",
+        "NLP",
+        "Publications",
+        "Research Paper",
+        "Research Project",
+        "Researchgate",
+        "Researchgate Publications",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Research Contributors",
+        "Karan Dhiman",
+        "Hasan Rizvi",
+        "Mayuresh Phansikar",
+        "Archit Konde",
+        "Saakshi Deokar",
+        "Computational Intelligence",
+        "Applied Software Engineering",
+        "Archival Integrity",
+        "Multi-Domain Synthesis",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://www.researchgate.net/profile/Amey-Thakur"
 }

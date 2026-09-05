@@ -1,0 +1,33 @@
+# [<img src="docs/RG_square_green.jpg" width="40" height="40" valign="middle">](https://www.researchgate.net/profile/Amey-Thakur) ResearchGate
+
+> A technical companion repository archiving code implementations and
+> research artifacts shared on ResearchGate.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 5 March 2022
+
+## What is in this repository
+
+- ResearchGate, 23 files
+- docs, 2 files
+- Amey Thakur ORCID.pdf
+- Mega Satish ORCID.pdf
+
+## Subject terms
+
+artificial-intelligence, authors, computer-engineering, computer-science,
+data-science, engineering, gans, machine-learning, neural-networks, nlp,
+publications, research-paper, research-project, researchgate,
+researchgate-publications
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/RESEARCHGATE
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://www.researchgate.net/profile/Amey-Thakur
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
